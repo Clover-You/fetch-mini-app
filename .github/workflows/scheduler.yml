@@ -11,7 +11,7 @@ jobs:
   update-sponsors:
     runs-on: ubuntu-latest
     env:
-      XIAOTIE_TOKEN: ${{secrets.XIAOTIE_TOKEN}}
+      XIAOTIE_TOKEN: ${{ secrets.XIAOTIE_TOKEN }}
     steps:
       - uses: actions/checkout@v4
 
