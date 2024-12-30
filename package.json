@@ -1,0 +1,24 @@
+{
+  "name": "fetch-mini-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "esno src/index.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/crypto-js": "^4.2.2",
+    "@types/node": "^22.10.2",
+    "@types/qs": "^6.9.17",
+    "esno": "^4.8.0",
+    "node-fetch": "^3.3.2",
+    "qs": "^6.13.1"
+  },
+  "dependencies": {
+    "crypto-js": "^4.2.0",
+    "dayjs": "^1.11.13"
+  }
+}
