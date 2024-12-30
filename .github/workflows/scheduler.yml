@@ -3,7 +3,7 @@ name: Scheduler
 on:
   workflow_dispatch:
   schedule:
-    - cron: '30 * * * *'
+    - cron: '0,30 * * * *'
   push:
     branches: [ master ]
 
@@ -11,7 +11,7 @@ jobs:
   update-sponsors:
     runs-on: ubuntu-latest
     env:
-      XIAOTIE_TOKEN: ${{secrets.XIAOTIE_TOKEN}}
+      XIAOTIE_TOKEN: ${{ secrets.XIAOTIE_TOKEN }}
     steps:
       - uses: actions/checkout@v4
 
