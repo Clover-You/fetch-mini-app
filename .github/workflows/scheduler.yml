@@ -10,8 +10,6 @@ on:
 jobs:
   update-sponsors:
     runs-on: ubuntu-latest
-    env:
-      XIAOTIE_TOKEN: ${{ secrets.XIAOTIE_TOKEN }}
     steps:
       - uses: actions/checkout@v4
 
@@ -25,6 +23,8 @@ jobs:
       - run: corepack enable && pnpm i
 
       - name: Fetch api data
+        env:
+          XIAOTIE_TOKEN: ${{ secrets.XIAOTIE_TOKEN }}
         run: npm run start
 
       - name: Commit
