@@ -2,6 +2,15 @@ import CryptoJs from 'crypto-js'
 import fetch from 'node-fetch'
 import qs from 'qs'
 import dayjs from 'dayjs'
+import dotenv from 'dotenv'
+
+if (process.env.NODE_ENV === 'dev') {
+  dotenv.config({ path: '.env.dev' })
+} else {
+  dotenv.config()
+}
+
+console.log(process.env);
 
 const BASE_URL = 'https://table-api.xironiot.com'
 
@@ -13,7 +22,9 @@ function getSign() {
   }
 }
 
-const userToken = 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdXRoX2lkIjoiODM1MDVmOGMtODNiZi00ZTA2LTk3NDgtNWU0ZjgzYjI2ZGQ3IiwiYXV0aF90eXBlIjoiU29jaWFsVXNlciIsImlzcyI6InRhYmxlIiwiZXhwIjoxNzM2MTI1NTUxfQ.shf060ZJ3V1sCI9_TmybPX_jo071P1XAtROKkIhGMdk'
+const userToken = process.env.XIAOTIE_TOKEN as string
+
+
 
 async function getXiaotieStores() {
   const URL = '/api/client/info/sites/'
@@ -141,7 +152,6 @@ export async function xiaotieConvert(cache: Record<string, StoreDetail> = {}) {
   })
 
   return cache
-
 }
 
 function recordAppointment(startTime: string, duration: number) {
