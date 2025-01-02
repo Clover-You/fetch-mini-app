@@ -3,14 +3,13 @@ import fetch from 'node-fetch'
 import qs from 'qs'
 import dayjs from 'dayjs'
 import dotenv from 'dotenv'
+import { mergeDetail, recordAppointment } from '../util'
 
 if (process.env.NODE_ENV === 'dev') {
   dotenv.config({ path: '.env.dev' })
 } else {
   dotenv.config()
 }
-
-console.log(process.env);
 
 const BASE_URL = 'https://table-api.xironiot.com'
 
@@ -96,6 +95,7 @@ async function getTableById(id: string) {
 
   const json = await resp.json() as any
   const tables = json.Results.tables as any[]
+  const current = dayjs().format('HH:mm')
 
   return tables.map<Table>(it => {
     const appointRecords: Record<string, Record<string, boolean>> = {}
@@ -103,8 +103,7 @@ async function getTableById(id: string) {
     // 在用
     if (it.info) {
       // 预约总时长
-      const duration = it.remaining_minutes + it.used_time
-      appointRecords[dayjs().format('YYYY-MM-DD')] = recordAppointment(it.use_at, duration)
+      appointRecords[dayjs().format('YYYY-MM-DD')] = { [current]: true }
     }
 
     return {
@@ -116,56 +115,8 @@ async function getTableById(id: string) {
   })
 }
 
-export async function xiaotieConvert(cache: Record<string, StoreDetail> = {}) {
-  const records = await getXiaotieStores()
-
-  records.forEach((it) => {
-    cache[it.id] ??= { store: it, tables: {} }
-
-    cache[it.id].store = it
-  })
-
-  const recordValues = Object.values(cache)
-
-  const tables = await Promise.all(
-    recordValues.map(async ({ store }) => {
-      const sid = store.id
-      return [sid, await getTableById(sid)] as const
-    })
-  )
-  const storeTableRecords = Object.fromEntries(tables)
-
-  recordValues.forEach(it => {
-    const tables = storeTableRecords[it.store.id]
-    if (!tables) return
-
-    tables.forEach(table => {
-      it.tables[table.id] ??= table
-
-      for (const day in table.appointRecords) {
-        const cacheAppoint = it.tables[table.id].appointRecords[day] ?? {}
-        Object.assign(cacheAppoint, table.appointRecords[day])
-        it.tables[table.id].appointRecords[day] = cacheAppoint
-      }
-    })
-
-  })
-
-  return cache
-}
-
-function recordAppointment(startTime: string, duration: number) {
-  const record: Record<string, boolean> = {};
-  let currentTime = dayjs(startTime);
-  const endTime = dayjs(startTime).add(duration, 'minute');
-
-  while (currentTime.isBefore(endTime)) {
-    const key = currentTime.format('HH:mm');
-    record[key] = true;
-    currentTime = currentTime.add(30, 'minute');
-  }
-
-  return record;
+export function xiaotieConvert(cache: Record<string, StoreDetail> = {}) {
+  return mergeDetail(cache, getXiaotieStores, getTableById)
 }
 
 const TypeConvertor: Record<number, string> = {
