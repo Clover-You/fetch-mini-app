@@ -3,6 +3,7 @@ import dayjs from 'dayjs'
 import CryptoJs from 'crypto-js'
 import timezone from 'dayjs/plugin/timezone'
 import utc from 'dayjs/plugin/utc'
+import { env } from 'node:process'
 
 env.TZ = 'Asia/Shanghai'
 
