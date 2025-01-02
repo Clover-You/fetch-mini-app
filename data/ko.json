@@ -1,1 +1,3344 @@
-{}
+{
+  "3334": {
+    "store": {
+      "address": "广州市白云区丛云路886号金鼎商业楼5楼",
+      "id": "3334",
+      "city": "广州市",
+      "name": "谈小娱-广州首店"
+    },
+    "tables": {
+      "2431": {
+        "id": "2431",
+        "address": "1号球桌",
+        "type": "中式台球",
+        "appointRecords": {}
+      },
+      "2432": {
+        "id": "2432",
+        "address": "2号球桌",
+        "type": "中式台球",
+        "appointRecords": {}
+      },
+      "2433": {
+        "id": "2433",
+        "address": "3号球桌",
+        "type": "中式台球",
+        "appointRecords": {}
+      },
+      "2434": {
+        "id": "2434",
+        "address": "4号球桌",
+        "type": "中式台球",
+        "appointRecords": {}
+      },
+      "2519": {
+        "id": "2519",
+        "address": "5号球桌",
+        "type": "中式台球",
+        "appointRecords": {}
+      },
+      "2520": {
+        "id": "2520",
+        "address": "6号球桌",
+        "type": "中式台球",
+        "appointRecords": {}
+      }
+    }
+  },
+  "3412": {
+    "store": {
+      "address": "广州市增城区新塘镇荔新十二路17幢68号铺",
+      "id": "3412",
+      "city": "广州市",
+      "name": "谈小娱-广州顺欣广场"
+    },
+    "tables": {
+      "2953": {
+        "id": "2953",
+        "address": "1号球桌",
+        "type": "中式台球",
+        "appointRecords": {}
+      },
+      "2954": {
+        "id": "2954",
+        "address": "2号球桌",
+        "type": "中式台球",
+        "appointRecords": {}
+      },
+      "2955": {
+        "id": "2955",
+        "address": "3号球桌",
+        "type": "中式台球",
+        "appointRecords": {}
+      },
+      "2956": {
+        "id": "2956",
+        "address": "4号球桌",
+        "type": "中式台球",
+        "appointRecords": {}
+      },
+      "2957": {
+        "id": "2957",
+        "address": "5号球桌",
+        "type": "中式台球",
+        "appointRecords": {}
+      },
+      "2958": {
+        "id": "2958",
+        "address": "6号球桌",
+        "type": "中式台球",
+        "appointRecords": {}
+      },
+      "2984": {
+        "id": "2984",
+        "address": "7号球桌",
+        "type": "中式台球",
+        "appointRecords": {}
+      }
+    }
+  },
+  "3533": {
+    "store": {
+      "address": "广州市天河区渔兴东路8号1C02铺",
+      "id": "3533",
+      "city": "广州市",
+      "name": "谈小娱-广州天河渔沙坦店"
+    },
+    "tables": {
+      "3881": {
+        "id": "3881",
+        "address": "1号球桌",
+        "type": "中式台球",
+        "appointRecords": {}
+      },
+      "3882": {
+        "id": "3882",
+        "address": "2号球桌",
+        "type": "中式台球",
+        "appointRecords": {
+          "2025-01-02": {
+            "08:41": true
+          }
+        }
+      },
+      "3883": {
+        "id": "3883",
+        "address": "3号球桌",
+        "type": "中式台球",
+        "appointRecords": {}
+      },
+      "3884": {
+        "id": "3884",
+        "address": "4号球桌",
+        "type": "中式台球",
+        "appointRecords": {}
+      },
+      "3885": {
+        "id": "3885",
+        "address": "5号球桌",
+        "type": "中式台球",
+        "appointRecords": {
+          "2025-01-02": {
+            "08:41": true
+          }
+        }
+      },
+      "3886": {
+        "id": "3886",
+        "address": "6号球桌",
+        "type": "中式台球",
+        "appointRecords": {
+          "2025-01-02": {
+            "08:41": true
+          }
+        }
+      }
+    }
+  },
+  "3567": {
+    "store": {
+      "address": "广州市天河区华观路1933号万科云城负一层",
+      "id": "3567",
+      "city": "广州市",
+      "name": "谈小娱-广州天河智慧城店"
+    },
+    "tables": {
+      "4141": {
+        "id": "4141",
+        "address": "1号球桌",
+        "type": "中式台球",
+        "appointRecords": {}
+      },
+      "4142": {
+        "id": "4142",
+        "address": "2号球桌",
+        "type": "中式台球",
+        "appointRecords": {}
+      },
+      "4143": {
+        "id": "4143",
+        "address": "3号球桌",
+        "type": "中式台球",
+        "appointRecords": {}
+      },
+      "4144": {
+        "id": "4144",
+        "address": "4号球桌",
+        "type": "中式台球",
+        "appointRecords": {
+          "2025-01-02": {
+            "08:41": true
+          }
+        }
+      },
+      "4145": {
+        "id": "4145",
+        "address": "5号球桌",
+        "type": "中式台球",
+        "appointRecords": {}
+      },
+      "4146": {
+        "id": "4146",
+        "address": "6号桌",
+        "type": "中式台球",
+        "appointRecords": {}
+      },
+      "28730": {
+        "id": "28730",
+        "address": "7号桌",
+        "type": "中式台球",
+        "appointRecords": {}
+      }
+    }
+  },
+  "3578": {
+    "store": {
+      "address": "广东广州白云区江高镇大田南路2号之1T生活创意园",
+      "id": "3578",
+      "city": "广州市",
+      "name": "谈小娱-广州白云学院店"
+    },
+    "tables": {
+      "4224": {
+        "id": "4224",
+        "address": "1号球桌",
+        "type": "中式台球",
+        "appointRecords": {}
+      },
+      "4225": {
+        "id": "4225",
+        "address": "8号球桌",
+        "type": "中式台球",
+        "appointRecords": {}
+      },
+      "4226": {
+        "id": "4226",
+        "address": "9号球桌",
+        "type": "中式台球",
+        "appointRecords": {}
+      },
+      "4228": {
+        "id": "4228",
+        "address": "2号球桌",
+        "type": "中式台球",
+        "appointRecords": {}
+      },
+      "4229": {
+        "id": "4229",
+        "address": "3号球桌",
+        "type": "中式台球",
+        "appointRecords": {}
+      },
+      "4230": {
+        "id": "4230",
+        "address": "4号球桌",
+        "type": "中式台球",
+        "appointRecords": {}
+      },
+      "4231": {
+        "id": "4231",
+        "address": "5号球桌",
+        "type": "中式台球",
+        "appointRecords": {}
+      },
+      "4232": {
+        "id": "4232",
+        "address": "6号球桌",
+        "type": "中式台球",
+        "appointRecords": {}
+      },
+      "4233": {
+        "id": "4233",
+        "address": "7号球桌",
+        "type": "中式台球",
+        "appointRecords": {}
+      },
+      "15760": {
+        "id": "15760",
+        "address": "10号球桌",
+        "type": "中式台球",
+        "appointRecords": {}
+      },
+      "15761": {
+        "id": "15761",
+        "address": "11号球桌",
+        "type": "中式台球",
+        "appointRecords": {}
+      },
+      "15762": {
+        "id": "15762",
+        "address": "12号球桌",
+        "type": "中式台球",
+        "appointRecords": {}
+      }
+    }
+  },
+  "3701": {
+    "store": {
+      "address": "广东省广州市天河区粤垦路8号201室",
+      "id": "3701",
+      "city": "广州市",
+      "name": "谈小娱-广州春晖苑店"
+    },
+    "tables": {
+      "5235": {
+        "id": "5235",
+        "address": "1号球桌",
+        "type": "中式台球",
+        "appointRecords": {}
+      },
+      "5236": {
+        "id": "5236",
+        "address": "2号球桌",
+        "type": "中式台球",
+        "appointRecords": {}
+      },
+      "5237": {
+        "id": "5237",
+        "address": "3号球桌",
+        "type": "中式台球",
+        "appointRecords": {}
+      },
+      "5238": {
+        "id": "5238",
+        "address": "4号球桌",
+        "type": "中式台球",
+        "appointRecords": {}
+      },
+      "5239": {
+        "id": "5239",
+        "address": "5号球桌",
+        "type": "中式台球",
+        "appointRecords": {}
+      },
+      "5240": {
+        "id": "5240",
+        "address": "6号球桌",
+        "type": "中式台球",
+        "appointRecords": {}
+      },
+      "5241": {
+        "id": "5241",
+        "address": "7号球桌",
+        "type": "中式台球",
+        "appointRecords": {}
+      }
+    }
+  },
+  "3734": {
+    "store": {
+      "address": "广州市增城区新塘镇锦绣天伦花园新绣北路114号商铺",
+      "id": "3734",
+      "city": "广州市",
+      "name": "谈小娱-广州锦绣天伦店"
+    },
+    "tables": {
+      "5505": {
+        "id": "5505",
+        "address": "1号球桌",
+        "type": "中式台球",
+        "appointRecords": {}
+      },
+      "5506": {
+        "id": "5506",
+        "address": "2号球桌",
+        "type": "中式台球",
+        "appointRecords": {}
+      },
+      "5507": {
+        "id": "5507",
+        "address": "3号球桌",
+        "type": "中式台球",
+        "appointRecords": {}
+      },
+      "5508": {
+        "id": "5508",
+        "address": "4号球桌",
+        "type": "中式台球",
+        "appointRecords": {}
+      },
+      "5509": {
+        "id": "5509",
+        "address": "5号球桌",
+        "type": "中式台球",
+        "appointRecords": {}
+      },
+      "5510": {
+        "id": "5510",
+        "address": "6号球桌",
+        "type": "中式台球",
+        "appointRecords": {}
+      }
+    }
+  },
+  "4075": {
+    "store": {
+      "address": "广州市番禺区钟村镇锦绣花园趣园1座137号",
+      "id": "4075",
+      "city": "广州市",
+      "name": "谈小娱-广州锦绣趣园店"
+    },
+    "tables": {
+      "9401": {
+        "id": "9401",
+        "address": "1号球桌",
+        "type": "中式台球",
+        "appointRecords": {}
+      },
+      "9402": {
+        "id": "9402",
+        "address": "2号球桌",
+        "type": "中式台球",
+        "appointRecords": {}
+      },
+      "9403": {
+        "id": "9403",
+        "address": "3号球桌",
+        "type": "中式台球",
+        "appointRecords": {}
+      },
+      "9404": {
+        "id": "9404",
+        "address": "4号桌",
+        "type": "中式台球",
+        "appointRecords": {}
+      },
+      "9405": {
+        "id": "9405",
+        "address": "5号桌",
+        "type": "中式台球",
+        "appointRecords": {}
+      }
+    }
+  },
+  "4080": {
+    "store": {
+      "address": "广州市白云区黄石北路71号",
+      "id": "4080",
+      "city": "广州市",
+      "name": "谈小娱-广州江夏店"
+    },
+    "tables": {
+      "9449": {
+        "id": "9449",
+        "address": "1号球桌",
+        "type": "中式台球",
+        "appointRecords": {}
+      },
+      "9450": {
+        "id": "9450",
+        "address": "2号球桌",
+        "type": "中式台球",
+        "appointRecords": {
+          "2025-01-02": {
+            "08:41": true
+          }
+        }
+      },
+      "9451": {
+        "id": "9451",
+        "address": "3号球桌",
+        "type": "中式台球",
+        "appointRecords": {}
+      },
+      "9452": {
+        "id": "9452",
+        "address": "4号球桌",
+        "type": "中式台球",
+        "appointRecords": {}
+      }
+    }
+  },
+  "4138": {
+    "store": {
+      "address": "广东省广州市番禺区石楼镇南星路36号L2-006",
+      "id": "4138",
+      "city": "广州市",
+      "name": "谈小娱-广州亚运城店"
+    },
+    "tables": {
+      "9927": {
+        "id": "9927",
+        "address": "1号球桌",
+        "type": "中式台球",
+        "appointRecords": {}
+      },
+      "9928": {
+        "id": "9928",
+        "address": "2号球桌",
+        "type": "中式台球",
+        "appointRecords": {}
+      },
+      "9929": {
+        "id": "9929",
+        "address": "3号球桌",
+        "type": "中式台球",
+        "appointRecords": {}
+      },
+      "9930": {
+        "id": "9930",
+        "address": "4号球桌",
+        "type": "中式台球",
+        "appointRecords": {}
+      },
+      "9931": {
+        "id": "9931",
+        "address": "5号球桌",
+        "type": "中式台球",
+        "appointRecords": {}
+      }
+    }
+  },
+  "4169": {
+    "store": {
+      "address": "广东广州市天河区广汕一路 716 号天河凤凰汇304铺",
+      "id": "4169",
+      "city": "广州市",
+      "name": "谈小娱-广州凤凰汇店"
+    },
+    "tables": {
+      "10181": {
+        "id": "10181",
+        "address": "1号球桌",
+        "type": "中式台球",
+        "appointRecords": {
+          "2025-01-02": {
+            "08:41": true
+          }
+        }
+      },
+      "10182": {
+        "id": "10182",
+        "address": "2号球桌",
+        "type": "中式台球",
+        "appointRecords": {}
+      },
+      "10183": {
+        "id": "10183",
+        "address": "3号球桌",
+        "type": "中式台球",
+        "appointRecords": {}
+      },
+      "10184": {
+        "id": "10184",
+        "address": "4号球桌",
+        "type": "中式台球",
+        "appointRecords": {}
+      },
+      "10185": {
+        "id": "10185",
+        "address": "5号球桌",
+        "type": "中式台球",
+        "appointRecords": {}
+      }
+    }
+  },
+  "4184": {
+    "store": {
+      "address": "广东省广州市海珠区新业路62号百汇天地A座二楼",
+      "id": "4184",
+      "city": "广州市",
+      "name": "谈小娱-广州新业路店"
+    },
+    "tables": {
+      "10305": {
+        "id": "10305",
+        "address": "1号球桌",
+        "type": "中式台球",
+        "appointRecords": {}
+      },
+      "10306": {
+        "id": "10306",
+        "address": "2号球桌",
+        "type": "中式台球",
+        "appointRecords": {}
+      },
+      "10307": {
+        "id": "10307",
+        "address": "3号球桌",
+        "type": "中式台球",
+        "appointRecords": {}
+      },
+      "10308": {
+        "id": "10308",
+        "address": "4号球桌",
+        "type": "中式台球",
+        "appointRecords": {}
+      },
+      "10309": {
+        "id": "10309",
+        "address": "5号球桌",
+        "type": "中式台球",
+        "appointRecords": {}
+      },
+      "10310": {
+        "id": "10310",
+        "address": "6号球桌",
+        "type": "中式台球",
+        "appointRecords": {}
+      }
+    }
+  },
+  "4360": {
+    "store": {
+      "address": "广州市黄埔区新龙镇兴龙路19号201房",
+      "id": "4360",
+      "city": "广州市",
+      "name": "谈小娱-广州新龙店"
+    },
+    "tables": {
+      "11890": {
+        "id": "11890",
+        "address": "1号球桌",
+        "type": "中式台球",
+        "appointRecords": {}
+      },
+      "11891": {
+        "id": "11891",
+        "address": "2号球桌",
+        "type": "中式台球",
+        "appointRecords": {}
+      },
+      "11892": {
+        "id": "11892",
+        "address": "3号球桌",
+        "type": "中式台球",
+        "appointRecords": {}
+      },
+      "11893": {
+        "id": "11893",
+        "address": "4号球桌",
+        "type": "中式台球",
+        "appointRecords": {}
+      },
+      "11894": {
+        "id": "11894",
+        "address": "5号球桌",
+        "type": "中式台球",
+        "appointRecords": {
+          "2025-01-02": {
+            "08:41": true
+          }
+        }
+      },
+      "11895": {
+        "id": "11895",
+        "address": "6号球桌",
+        "type": "中式台球",
+        "appointRecords": {
+          "2025-01-02": {
+            "08:41": true
+          }
+        }
+      },
+      "11896": {
+        "id": "11896",
+        "address": "7号球桌",
+        "type": "中式台球",
+        "appointRecords": {
+          "2025-01-02": {
+            "08:41": true
+          }
+        }
+      },
+      "11897": {
+        "id": "11897",
+        "address": "8号桌",
+        "type": "中式台球",
+        "appointRecords": {}
+      },
+      "11898": {
+        "id": "11898",
+        "address": "9号桌",
+        "type": "中式台球",
+        "appointRecords": {}
+      }
+    }
+  },
+  "4670": {
+    "store": {
+      "address": "广州市番禺区广州大学城星光下道咏凤二街16号201",
+      "id": "4670",
+      "city": "广州市",
+      "name": "谈小娱-广州大学城北亭店"
+    },
+    "tables": {
+      "14670": {
+        "id": "14670",
+        "address": "1号球桌",
+        "type": "中式台球",
+        "appointRecords": {}
+      },
+      "14671": {
+        "id": "14671",
+        "address": "2号球桌",
+        "type": "中式台球",
+        "appointRecords": {}
+      },
+      "14672": {
+        "id": "14672",
+        "address": "3号球桌",
+        "type": "中式台球",
+        "appointRecords": {
+          "2025-01-02": {
+            "08:41": true
+          }
+        }
+      },
+      "14673": {
+        "id": "14673",
+        "address": "VIP333",
+        "type": "中式台球",
+        "appointRecords": {}
+      },
+      "14674": {
+        "id": "14674",
+        "address": "VIP666",
+        "type": "中式台球",
+        "appointRecords": {}
+      },
+      "14675": {
+        "id": "14675",
+        "address": "VIP777",
+        "type": "中式台球",
+        "appointRecords": {}
+      },
+      "14676": {
+        "id": "14676",
+        "address": "VIP888",
+        "type": "中式台球",
+        "appointRecords": {
+          "2025-01-02": {
+            "08:41": true
+          }
+        }
+      },
+      "14677": {
+        "id": "14677",
+        "address": "VIP999",
+        "type": "中式台球",
+        "appointRecords": {}
+      },
+      "14678": {
+        "id": "14678",
+        "address": "vip801",
+        "type": "中式台球",
+        "appointRecords": {}
+      },
+      "14679": {
+        "id": "14679",
+        "address": "vip802",
+        "type": "中式台球",
+        "appointRecords": {}
+      },
+      "14680": {
+        "id": "14680",
+        "address": "vip803",
+        "type": "中式台球",
+        "appointRecords": {}
+      },
+      "18565": {
+        "id": "18565",
+        "address": "4号球桌",
+        "type": "中式台球",
+        "appointRecords": {
+          "2025-01-02": {
+            "08:41": true
+          }
+        }
+      }
+    }
+  },
+  "4717": {
+    "store": {
+      "address": "广州市增城区新塘镇西洲大道西93号二楼",
+      "id": "4717",
+      "city": "广州市",
+      "name": "谈小娱-广州西洲店"
+    },
+    "tables": {
+      "15092": {
+        "id": "15092",
+        "address": "1号球桌",
+        "type": "中式台球",
+        "appointRecords": {
+          "2025-01-02": {
+            "08:41": true
+          }
+        }
+      },
+      "15093": {
+        "id": "15093",
+        "address": "2号球桌",
+        "type": "中式台球",
+        "appointRecords": {}
+      },
+      "15094": {
+        "id": "15094",
+        "address": "3号球桌",
+        "type": "中式台球",
+        "appointRecords": {}
+      },
+      "15095": {
+        "id": "15095",
+        "address": "4号球桌",
+        "type": "中式台球",
+        "appointRecords": {}
+      },
+      "15096": {
+        "id": "15096",
+        "address": "5号球桌",
+        "type": "中式台球",
+        "appointRecords": {}
+      },
+      "15098": {
+        "id": "15098",
+        "address": "7号桌",
+        "type": "中式台球",
+        "appointRecords": {}
+      },
+      "15099": {
+        "id": "15099",
+        "address": "8号桌",
+        "type": "中式台球",
+        "appointRecords": {
+          "2025-01-02": {
+            "08:41": true
+          }
+        }
+      },
+      "15100": {
+        "id": "15100",
+        "address": "9号桌",
+        "type": "中式台球",
+        "appointRecords": {}
+      },
+      "15101": {
+        "id": "15101",
+        "address": "10号桌",
+        "type": "中式台球",
+        "appointRecords": {}
+      },
+      "25251": {
+        "id": "25251",
+        "address": "6号桌",
+        "type": "中式台球",
+        "appointRecords": {}
+      }
+    }
+  },
+  "4747": {
+    "store": {
+      "address": "广东省广州市增城区新塘镇永宁街创裕路2号114、116",
+      "id": "4747",
+      "city": "广州市",
+      "name": "谈小娱-广州悠方店"
+    },
+    "tables": {
+      "15392": {
+        "id": "15392",
+        "address": "4号球桌",
+        "type": "中式台球",
+        "appointRecords": {}
+      },
+      "15393": {
+        "id": "15393",
+        "address": "2号球桌",
+        "type": "中式台球",
+        "appointRecords": {}
+      },
+      "15394": {
+        "id": "15394",
+        "address": "3号球桌",
+        "type": "中式台球",
+        "appointRecords": {}
+      },
+      "15395": {
+        "id": "15395",
+        "address": "1号球桌",
+        "type": "中式台球",
+        "appointRecords": {}
+      },
+      "15396": {
+        "id": "15396",
+        "address": "5号球桌",
+        "type": "中式台球",
+        "appointRecords": {}
+      }
+    }
+  },
+  "4765": {
+    "store": {
+      "address": "广东广州市白云区西槎路96号新都汇广场6F",
+      "id": "4765",
+      "city": "广州市",
+      "name": "谈小娱-广州同德围新都汇店"
+    },
+    "tables": {
+      "15551": {
+        "id": "15551",
+        "address": "1号球桌",
+        "type": "中式台球",
+        "appointRecords": {}
+      },
+      "15552": {
+        "id": "15552",
+        "address": "2号球桌",
+        "type": "中式台球",
+        "appointRecords": {}
+      },
+      "15553": {
+        "id": "15553",
+        "address": "3号球桌",
+        "type": "中式台球",
+        "appointRecords": {}
+      },
+      "15554": {
+        "id": "15554",
+        "address": "4号球桌",
+        "type": "中式台球",
+        "appointRecords": {}
+      },
+      "15555": {
+        "id": "15555",
+        "address": "5号球桌",
+        "type": "中式台球",
+        "appointRecords": {}
+      },
+      "15556": {
+        "id": "15556",
+        "address": "6号球桌",
+        "type": "中式台球",
+        "appointRecords": {
+          "2025-01-02": {
+            "08:41": true
+          }
+        }
+      },
+      "15557": {
+        "id": "15557",
+        "address": "7号球桌",
+        "type": "中式台球",
+        "appointRecords": {}
+      }
+    }
+  },
+  "4900": {
+    "store": {
+      "address": "广州市增城区新塘镇新保大道173号（自编A2-101号）",
+      "id": "4900",
+      "city": "广州市",
+      "name": "谈小娱-广州保利东江店"
+    },
+    "tables": {
+      "16764": {
+        "id": "16764",
+        "address": "1号球桌",
+        "type": "中式台球",
+        "appointRecords": {}
+      },
+      "16765": {
+        "id": "16765",
+        "address": "2号球桌",
+        "type": "中式台球",
+        "appointRecords": {
+          "2025-01-02": {
+            "08:41": true
+          }
+        }
+      },
+      "16766": {
+        "id": "16766",
+        "address": "3号球桌",
+        "type": "中式台球",
+        "appointRecords": {}
+      },
+      "16767": {
+        "id": "16767",
+        "address": "4号球桌",
+        "type": "中式台球",
+        "appointRecords": {}
+      },
+      "16768": {
+        "id": "16768",
+        "address": "5号球桌",
+        "type": "中式台球",
+        "appointRecords": {}
+      },
+      "16769": {
+        "id": "16769",
+        "address": "6号球桌",
+        "type": "中式台球",
+        "appointRecords": {
+          "2025-01-02": {
+            "08:41": true
+          }
+        }
+      }
+    }
+  },
+  "5013": {
+    "store": {
+      "address": "广东省广州市海珠区新港西路154号星美商城2楼",
+      "id": "5013",
+      "city": "广州市",
+      "name": "谈小娱-广州新港西路店"
+    },
+    "tables": {
+      "17772": {
+        "id": "17772",
+        "address": "1号球桌",
+        "type": "中式台球",
+        "appointRecords": {
+          "2025-01-02": {
+            "08:41": true
+          }
+        }
+      },
+      "17773": {
+        "id": "17773",
+        "address": "2号球桌",
+        "type": "中式台球",
+        "appointRecords": {}
+      },
+      "17774": {
+        "id": "17774",
+        "address": "3号球桌",
+        "type": "中式台球",
+        "appointRecords": {}
+      },
+      "17775": {
+        "id": "17775",
+        "address": "4号球桌",
+        "type": "中式台球",
+        "appointRecords": {
+          "2025-01-02": {
+            "08:41": true
+          }
+        }
+      },
+      "17776": {
+        "id": "17776",
+        "address": "5号球桌",
+        "type": "中式台球",
+        "appointRecords": {
+          "2025-01-02": {
+            "08:41": true
+          }
+        }
+      },
+      "17778": {
+        "id": "17778",
+        "address": "7号球桌",
+        "type": "中式台球",
+        "appointRecords": {
+          "2025-01-02": {
+            "08:41": true
+          }
+        }
+      },
+      "17779": {
+        "id": "17779",
+        "address": "8号球桌",
+        "type": "中式台球",
+        "appointRecords": {}
+      }
+    }
+  },
+  "5065": {
+    "store": {
+      "address": "广州市花都区新雅街团结安置区北区商业街鱼岗工业大楼二栋2楼",
+      "id": "5065",
+      "city": "广州市",
+      "name": "谈小娱-广州融创店"
+    },
+    "tables": {
+      "18276": {
+        "id": "18276",
+        "address": "1号球桌",
+        "type": "中式台球",
+        "appointRecords": {}
+      },
+      "18277": {
+        "id": "18277",
+        "address": "2号球桌",
+        "type": "中式台球",
+        "appointRecords": {
+          "2025-01-02": {
+            "08:41": true
+          }
+        }
+      },
+      "18278": {
+        "id": "18278",
+        "address": "3号球桌",
+        "type": "中式台球",
+        "appointRecords": {}
+      },
+      "18279": {
+        "id": "18279",
+        "address": "4号球桌",
+        "type": "中式台球",
+        "appointRecords": {}
+      },
+      "18280": {
+        "id": "18280",
+        "address": "5号球桌",
+        "type": "中式台球",
+        "appointRecords": {}
+      },
+      "18281": {
+        "id": "18281",
+        "address": "6号球桌",
+        "type": "中式台球",
+        "appointRecords": {}
+      },
+      "18282": {
+        "id": "18282",
+        "address": "7号球桌",
+        "type": "中式台球",
+        "appointRecords": {}
+      },
+      "18283": {
+        "id": "18283",
+        "address": "8号球桌",
+        "type": "中式台球",
+        "appointRecords": {}
+      },
+      "18284": {
+        "id": "18284",
+        "address": "9号球桌",
+        "type": "中式台球",
+        "appointRecords": {}
+      },
+      "18285": {
+        "id": "18285",
+        "address": "10号桌",
+        "type": "中式台球",
+        "appointRecords": {}
+      },
+      "18286": {
+        "id": "18286",
+        "address": "11号桌",
+        "type": "中式台球",
+        "appointRecords": {}
+      },
+      "18287": {
+        "id": "18287",
+        "address": "12号桌",
+        "type": "中式台球",
+        "appointRecords": {}
+      }
+    }
+  },
+  "5078": {
+    "store": {
+      "address": "广东省广州市从化区环市东路商贸城青春名城宏雅园213号",
+      "id": "5078",
+      "city": "广州市",
+      "name": "谈小娱-广州城建学院店"
+    },
+    "tables": {
+      "18438": {
+        "id": "18438",
+        "address": "1号球桌",
+        "type": "中式台球",
+        "appointRecords": {}
+      },
+      "18439": {
+        "id": "18439",
+        "address": "2号球桌",
+        "type": "中式台球",
+        "appointRecords": {
+          "2025-01-02": {
+            "08:41": true
+          }
+        }
+      },
+      "18440": {
+        "id": "18440",
+        "address": "3号球桌",
+        "type": "中式台球",
+        "appointRecords": {}
+      },
+      "18441": {
+        "id": "18441",
+        "address": "4号球桌",
+        "type": "中式台球",
+        "appointRecords": {}
+      },
+      "18442": {
+        "id": "18442",
+        "address": "5号球桌",
+        "type": "中式台球",
+        "appointRecords": {}
+      },
+      "18443": {
+        "id": "18443",
+        "address": "6号球桌",
+        "type": "中式台球",
+        "appointRecords": {
+          "2025-01-02": {
+            "08:41": true
+          }
+        }
+      },
+      "18444": {
+        "id": "18444",
+        "address": "7号球桌",
+        "type": "中式台球",
+        "appointRecords": {
+          "2025-01-02": {
+            "08:41": true
+          }
+        }
+      },
+      "18445": {
+        "id": "18445",
+        "address": "8号球桌",
+        "type": "中式台球",
+        "appointRecords": {}
+      },
+      "33283": {
+        "id": "33283",
+        "address": "9号球桌",
+        "type": "中式台球",
+        "appointRecords": {}
+      },
+      "33284": {
+        "id": "33284",
+        "address": "10号球桌",
+        "type": "中式台球",
+        "appointRecords": {}
+      },
+      "33285": {
+        "id": "33285",
+        "address": "11号球桌",
+        "type": "中式台球",
+        "appointRecords": {}
+      },
+      "33286": {
+        "id": "33286",
+        "address": "12号球桌",
+        "type": "中式台球",
+        "appointRecords": {}
+      },
+      "33288": {
+        "id": "33288",
+        "address": "14号球桌",
+        "type": "中式台球",
+        "appointRecords": {}
+      },
+      "33289": {
+        "id": "33289",
+        "address": "15号球桌",
+        "type": "中式台球",
+        "appointRecords": {}
+      },
+      "33290": {
+        "id": "33290",
+        "address": "16号球桌",
+        "type": "中式台球",
+        "appointRecords": {}
+      },
+      "33291": {
+        "id": "33291",
+        "address": "17号球桌",
+        "type": "中式台球",
+        "appointRecords": {}
+      },
+      "33292": {
+        "id": "33292",
+        "address": "18号球桌",
+        "type": "中式台球",
+        "appointRecords": {}
+      },
+      "33620": {
+        "id": "33620",
+        "address": "19号球桌",
+        "type": "中式台球",
+        "appointRecords": {
+          "2025-01-02": {
+            "08:41": true
+          }
+        }
+      },
+      "36741": {
+        "id": "36741",
+        "address": "13号球桌",
+        "type": "中式台球",
+        "appointRecords": {}
+      }
+    }
+  },
+  "5095": {
+    "store": {
+      "address": "广州市白云区嘉禾街长红村长湴工业二路12号d栋2层201铺位",
+      "id": "5095",
+      "city": "广州市",
+      "name": "谈小娱-广州长红店"
+    },
+    "tables": {
+      "18602": {
+        "id": "18602",
+        "address": "1号球桌",
+        "type": "中式台球",
+        "appointRecords": {
+          "2025-01-02": {
+            "08:41": true
+          }
+        }
+      },
+      "18603": {
+        "id": "18603",
+        "address": "2号球桌",
+        "type": "中式台球",
+        "appointRecords": {}
+      },
+      "18604": {
+        "id": "18604",
+        "address": "3号球桌",
+        "type": "中式台球",
+        "appointRecords": {}
+      },
+      "18605": {
+        "id": "18605",
+        "address": "4号球桌",
+        "type": "中式台球",
+        "appointRecords": {}
+      },
+      "18606": {
+        "id": "18606",
+        "address": "5号球桌",
+        "type": "中式台球",
+        "appointRecords": {}
+      },
+      "18607": {
+        "id": "18607",
+        "address": "6号球桌",
+        "type": "中式台球",
+        "appointRecords": {}
+      },
+      "18608": {
+        "id": "18608",
+        "address": "7号球桌",
+        "type": "中式台球",
+        "appointRecords": {}
+      },
+      "18609": {
+        "id": "18609",
+        "address": "8号球桌",
+        "type": "中式台球",
+        "appointRecords": {}
+      },
+      "18610": {
+        "id": "18610",
+        "address": "9号球桌",
+        "type": "中式台球",
+        "appointRecords": {}
+      },
+      "18611": {
+        "id": "18611",
+        "address": "10号球桌",
+        "type": "中式台球",
+        "appointRecords": {}
+      },
+      "18612": {
+        "id": "18612",
+        "address": "11号球桌",
+        "type": "中式台球",
+        "appointRecords": {}
+      },
+      "18613": {
+        "id": "18613",
+        "address": "12号球桌",
+        "type": "中式台球",
+        "appointRecords": {}
+      }
+    }
+  },
+  "5149": {
+    "store": {
+      "address": "广州市番禺区德信路奥园养生广场金睿一街18号",
+      "id": "5149",
+      "city": "广州市",
+      "name": "谈小娱-广州番禺奥园店"
+    },
+    "tables": {
+      "19064": {
+        "id": "19064",
+        "address": "1号球桌",
+        "type": "中式台球",
+        "appointRecords": {}
+      },
+      "19065": {
+        "id": "19065",
+        "address": "2号球桌",
+        "type": "中式台球",
+        "appointRecords": {}
+      },
+      "19066": {
+        "id": "19066",
+        "address": "3号球桌",
+        "type": "中式台球",
+        "appointRecords": {}
+      },
+      "19067": {
+        "id": "19067",
+        "address": "4号球桌",
+        "type": "中式台球",
+        "appointRecords": {}
+      },
+      "19068": {
+        "id": "19068",
+        "address": "5号球桌",
+        "type": "中式台球",
+        "appointRecords": {}
+      },
+      "19069": {
+        "id": "19069",
+        "address": "6号球桌",
+        "type": "中式台球",
+        "appointRecords": {}
+      }
+    }
+  },
+  "5253": {
+    "store": {
+      "address": "广州市天河区龙洞迎龙路157号105-108铺",
+      "id": "5253",
+      "city": "广州市",
+      "name": "谈小娱-广州龙洞店"
+    },
+    "tables": {
+      "19937": {
+        "id": "19937",
+        "address": "1号球桌",
+        "type": "中式台球",
+        "appointRecords": {
+          "2025-01-02": {
+            "08:41": true
+          }
+        }
+      },
+      "19938": {
+        "id": "19938",
+        "address": "2号球桌",
+        "type": "中式台球",
+        "appointRecords": {
+          "2025-01-02": {
+            "08:41": true
+          }
+        }
+      },
+      "19939": {
+        "id": "19939",
+        "address": "3号球桌",
+        "type": "中式台球",
+        "appointRecords": {
+          "2025-01-02": {
+            "08:41": true
+          }
+        }
+      },
+      "19940": {
+        "id": "19940",
+        "address": "4号球桌",
+        "type": "中式台球",
+        "appointRecords": {
+          "2025-01-02": {
+            "08:41": true
+          }
+        }
+      },
+      "19941": {
+        "id": "19941",
+        "address": "5号球桌",
+        "type": "中式台球",
+        "appointRecords": {
+          "2025-01-02": {
+            "08:41": true
+          }
+        }
+      },
+      "19942": {
+        "id": "19942",
+        "address": "6号球桌",
+        "type": "中式台球",
+        "appointRecords": {
+          "2025-01-02": {
+            "08:41": true
+          }
+        }
+      },
+      "19943": {
+        "id": "19943",
+        "address": "棋牌1号桌",
+        "type": "中式台球",
+        "appointRecords": {}
+      },
+      "19944": {
+        "id": "19944",
+        "address": "棋牌2号桌",
+        "type": "中式台球",
+        "appointRecords": {}
+      }
+    }
+  },
+  "5277": {
+    "store": {
+      "address": "广东省广州市黄埔区南岗街盛凯大街1号B126商铺",
+      "id": "5277",
+      "city": "广州市",
+      "name": "谈小娱-广州佳纷天地店"
+    },
+    "tables": {
+      "20119": {
+        "id": "20119",
+        "address": "1号球桌",
+        "type": "中式台球",
+        "appointRecords": {}
+      },
+      "20120": {
+        "id": "20120",
+        "address": "2号球桌",
+        "type": "中式台球",
+        "appointRecords": {}
+      },
+      "20121": {
+        "id": "20121",
+        "address": "3号球桌",
+        "type": "中式台球",
+        "appointRecords": {}
+      },
+      "20122": {
+        "id": "20122",
+        "address": "4号球桌",
+        "type": "中式台球",
+        "appointRecords": {}
+      },
+      "20123": {
+        "id": "20123",
+        "address": "5号球桌",
+        "type": "中式台球",
+        "appointRecords": {}
+      },
+      "20124": {
+        "id": "20124",
+        "address": "6号球桌",
+        "type": "中式台球",
+        "appointRecords": {
+          "2025-01-02": {
+            "08:41": true
+          }
+        }
+      },
+      "20125": {
+        "id": "20125",
+        "address": "7号球桌",
+        "type": "中式台球",
+        "appointRecords": {}
+      },
+      "20126": {
+        "id": "20126",
+        "address": "8号球桌",
+        "type": "中式台球",
+        "appointRecords": {}
+      },
+      "20127": {
+        "id": "20127",
+        "address": "9号球桌",
+        "type": "中式台球",
+        "appointRecords": {}
+      }
+    }
+  },
+  "5325": {
+    "store": {
+      "address": "广东广州增城区中新镇福和坪中南路139号二楼",
+      "id": "5325",
+      "city": "广州市",
+      "name": "谈小娱-广州福和店"
+    },
+    "tables": {
+      "20540": {
+        "id": "20540",
+        "address": "1号球桌",
+        "type": "中式台球",
+        "appointRecords": {
+          "2025-01-02": {
+            "08:41": true
+          }
+        }
+      },
+      "20541": {
+        "id": "20541",
+        "address": "2号球桌",
+        "type": "中式台球",
+        "appointRecords": {}
+      },
+      "20542": {
+        "id": "20542",
+        "address": "3号球桌",
+        "type": "中式台球",
+        "appointRecords": {
+          "2025-01-02": {
+            "08:41": true
+          }
+        }
+      },
+      "20543": {
+        "id": "20543",
+        "address": "4号球桌",
+        "type": "中式台球",
+        "appointRecords": {
+          "2025-01-02": {
+            "08:41": true
+          }
+        }
+      },
+      "20544": {
+        "id": "20544",
+        "address": "5号球桌",
+        "type": "中式台球",
+        "appointRecords": {}
+      },
+      "20545": {
+        "id": "20545",
+        "address": "6号球桌",
+        "type": "中式台球",
+        "appointRecords": {
+          "2025-01-02": {
+            "08:41": true
+          }
+        }
+      },
+      "20546": {
+        "id": "20546",
+        "address": "7号球桌",
+        "type": "中式台球",
+        "appointRecords": {
+          "2025-01-02": {
+            "08:41": true
+          }
+        }
+      },
+      "20547": {
+        "id": "20547",
+        "address": "8号桌",
+        "type": "中式台球",
+        "appointRecords": {}
+      },
+      "20548": {
+        "id": "20548",
+        "address": "9号桌",
+        "type": "中式台球",
+        "appointRecords": {}
+      }
+    }
+  },
+  "5439": {
+    "store": {
+      "address": "广东省佛山市顺德区北滘镇北滘社区跃进路154号二层B",
+      "id": "5439",
+      "city": "广州市",
+      "name": "谈小娱-佛山华泰商场店"
+    },
+    "tables": {
+      "21531": {
+        "id": "21531",
+        "address": "1号球桌",
+        "type": "中式台球",
+        "appointRecords": {}
+      },
+      "21533": {
+        "id": "21533",
+        "address": "3号球桌",
+        "type": "中式台球",
+        "appointRecords": {
+          "2025-01-02": {
+            "08:41": true
+          }
+        }
+      },
+      "21535": {
+        "id": "21535",
+        "address": "5号球桌",
+        "type": "中式台球",
+        "appointRecords": {}
+      },
+      "21536": {
+        "id": "21536",
+        "address": "6号球桌",
+        "type": "中式台球",
+        "appointRecords": {}
+      },
+      "21537": {
+        "id": "21537",
+        "address": "7号球桌",
+        "type": "中式台球",
+        "appointRecords": {}
+      },
+      "21540": {
+        "id": "21540",
+        "address": "666",
+        "type": "中式台球",
+        "appointRecords": {}
+      },
+      "36093": {
+        "id": "36093",
+        "address": "888",
+        "type": "中式台球",
+        "appointRecords": {}
+      },
+      "36094": {
+        "id": "36094",
+        "address": "999",
+        "type": "中式台球",
+        "appointRecords": {}
+      },
+      "36095": {
+        "id": "36095",
+        "address": "168",
+        "type": "中式台球",
+        "appointRecords": {}
+      },
+      "36451": {
+        "id": "36451",
+        "address": "2号球桌",
+        "type": "中式台球",
+        "appointRecords": {}
+      },
+      "36452": {
+        "id": "36452",
+        "address": "8号球桌",
+        "type": "中式台球",
+        "appointRecords": {
+          "2025-01-02": {
+            "08:41": true
+          }
+        }
+      }
+    }
+  },
+  "5474": {
+    "store": {
+      "address": "广东省广州市白云区机场路水边街时代花园135号铺201",
+      "id": "5474",
+      "city": "广州市",
+      "name": "谈小娱-广州时代花园店"
+    },
+    "tables": {
+      "21905": {
+        "id": "21905",
+        "address": "1号球桌",
+        "type": "中式台球",
+        "appointRecords": {}
+      },
+      "21906": {
+        "id": "21906",
+        "address": "2号球桌",
+        "type": "中式台球",
+        "appointRecords": {}
+      },
+      "21907": {
+        "id": "21907",
+        "address": "3号球桌",
+        "type": "中式台球",
+        "appointRecords": {}
+      },
+      "21908": {
+        "id": "21908",
+        "address": "4号球桌",
+        "type": "中式台球",
+        "appointRecords": {}
+      },
+      "21909": {
+        "id": "21909",
+        "address": "5号球桌",
+        "type": "中式台球",
+        "appointRecords": {}
+      },
+      "21910": {
+        "id": "21910",
+        "address": "6号球桌",
+        "type": "中式台球",
+        "appointRecords": {}
+      },
+      "21911": {
+        "id": "21911",
+        "address": "7号桌",
+        "type": "中式台球",
+        "appointRecords": {}
+      }
+    }
+  },
+  "5625": {
+    "store": {
+      "address": "广州市天河区岑村圣堂大街31号均田大厦106室",
+      "id": "5625",
+      "city": "广州市",
+      "name": "谈小娱-广州岑村店"
+    },
+    "tables": {
+      "23299": {
+        "id": "23299",
+        "address": "1号球桌",
+        "type": "中式台球",
+        "appointRecords": {}
+      },
+      "23300": {
+        "id": "23300",
+        "address": "2号球桌",
+        "type": "中式台球",
+        "appointRecords": {}
+      },
+      "23301": {
+        "id": "23301",
+        "address": "3号球桌",
+        "type": "中式台球",
+        "appointRecords": {}
+      },
+      "23302": {
+        "id": "23302",
+        "address": "4号球桌",
+        "type": "中式台球",
+        "appointRecords": {}
+      }
+    }
+  },
+  "5626": {
+    "store": {
+      "address": "广州市番禺区大石镇富石路218号113铺",
+      "id": "5626",
+      "city": "广州市",
+      "name": "谈小娱-广州番禺新地广场店"
+    },
+    "tables": {
+      "23304": {
+        "id": "23304",
+        "address": "1号球桌",
+        "type": "中式台球",
+        "appointRecords": {}
+      },
+      "23305": {
+        "id": "23305",
+        "address": "2号球桌",
+        "type": "中式台球",
+        "appointRecords": {}
+      },
+      "23306": {
+        "id": "23306",
+        "address": "3号球桌",
+        "type": "中式台球",
+        "appointRecords": {
+          "2025-01-02": {
+            "08:41": true
+          }
+        }
+      },
+      "23307": {
+        "id": "23307",
+        "address": "4号球桌",
+        "type": "中式台球",
+        "appointRecords": {}
+      },
+      "23308": {
+        "id": "23308",
+        "address": "5号球桌",
+        "type": "中式台球",
+        "appointRecords": {}
+      },
+      "23309": {
+        "id": "23309",
+        "address": "6号球桌",
+        "type": "中式台球",
+        "appointRecords": {
+          "2025-01-02": {
+            "08:41": true
+          }
+        }
+      },
+      "23310": {
+        "id": "23310",
+        "address": "7号球桌",
+        "type": "中式台球",
+        "appointRecords": {}
+      },
+      "23311": {
+        "id": "23311",
+        "address": "8号球桌",
+        "type": "中式台球",
+        "appointRecords": {}
+      },
+      "23312": {
+        "id": "23312",
+        "address": "9号球桌",
+        "type": "中式台球",
+        "appointRecords": {}
+      },
+      "23313": {
+        "id": "23313",
+        "address": "10号球桌",
+        "type": "中式台球",
+        "appointRecords": {}
+      }
+    }
+  },
+  "5697": {
+    "store": {
+      "address": "广东省广州市白云区鹤龙街彭江路132号A栋3层318-321",
+      "id": "5697",
+      "city": "广州市",
+      "name": "谈小娱-广州YT创意园店"
+    },
+    "tables": {
+      "23948": {
+        "id": "23948",
+        "address": "1号桌",
+        "type": "中式台球",
+        "appointRecords": {}
+      },
+      "23949": {
+        "id": "23949",
+        "address": "2号球桌",
+        "type": "中式台球",
+        "appointRecords": {}
+      },
+      "23950": {
+        "id": "23950",
+        "address": "3号球桌",
+        "type": "中式台球",
+        "appointRecords": {}
+      },
+      "23951": {
+        "id": "23951",
+        "address": "4号球桌",
+        "type": "中式台球",
+        "appointRecords": {}
+      },
+      "23952": {
+        "id": "23952",
+        "address": "5号球桌",
+        "type": "中式台球",
+        "appointRecords": {
+          "2025-01-02": {
+            "08:41": true
+          }
+        }
+      },
+      "23953": {
+        "id": "23953",
+        "address": "6号球桌",
+        "type": "中式台球",
+        "appointRecords": {}
+      },
+      "23954": {
+        "id": "23954",
+        "address": "7号球桌",
+        "type": "中式台球",
+        "appointRecords": {}
+      }
+    }
+  },
+  "5788": {
+    "store": {
+      "address": "广州市海珠区石基络598号二楼",
+      "id": "5788",
+      "city": "广州市",
+      "name": "谈小娱-广州古港店"
+    },
+    "tables": {
+      "24891": {
+        "id": "24891",
+        "address": "1号球桌",
+        "type": "中式台球",
+        "appointRecords": {}
+      },
+      "24892": {
+        "id": "24892",
+        "address": "2号球桌",
+        "type": "中式台球",
+        "appointRecords": {}
+      },
+      "24893": {
+        "id": "24893",
+        "address": "3号球桌",
+        "type": "中式台球",
+        "appointRecords": {}
+      },
+      "24894": {
+        "id": "24894",
+        "address": "4号球桌",
+        "type": "中式台球",
+        "appointRecords": {}
+      },
+      "24895": {
+        "id": "24895",
+        "address": "5号球桌故障中维修中",
+        "type": "中式台球",
+        "appointRecords": {}
+      },
+      "24896": {
+        "id": "24896",
+        "address": "6号球桌",
+        "type": "中式台球",
+        "appointRecords": {}
+      },
+      "24897": {
+        "id": "24897",
+        "address": "7号球桌",
+        "type": "中式台球",
+        "appointRecords": {}
+      },
+      "24898": {
+        "id": "24898",
+        "address": "8号球桌",
+        "type": "中式台球",
+        "appointRecords": {}
+      },
+      "24899": {
+        "id": "24899",
+        "address": "9号球桌",
+        "type": "中式台球",
+        "appointRecords": {}
+      },
+      "24900": {
+        "id": "24900",
+        "address": "10号球桌",
+        "type": "中式台球",
+        "appointRecords": {}
+      }
+    }
+  },
+  "5827": {
+    "store": {
+      "address": "广东省广州市番禺区大石街猛涌村大街8号",
+      "id": "5827",
+      "city": "广州市",
+      "name": "谈小娱-广州猛涌村店"
+    },
+    "tables": {
+      "25278": {
+        "id": "25278",
+        "address": "1号球桌",
+        "type": "中式台球",
+        "appointRecords": {}
+      },
+      "25279": {
+        "id": "25279",
+        "address": "2号球桌",
+        "type": "中式台球",
+        "appointRecords": {}
+      },
+      "25280": {
+        "id": "25280",
+        "address": "3号球桌",
+        "type": "中式台球",
+        "appointRecords": {}
+      },
+      "25281": {
+        "id": "25281",
+        "address": "4号球桌",
+        "type": "中式台球",
+        "appointRecords": {}
+      },
+      "25282": {
+        "id": "25282",
+        "address": "5号球桌",
+        "type": "中式台球",
+        "appointRecords": {
+          "2025-01-02": {
+            "08:41": true
+          }
+        }
+      },
+      "25283": {
+        "id": "25283",
+        "address": "6号球桌",
+        "type": "中式台球",
+        "appointRecords": {}
+      }
+    }
+  },
+  "6033": {
+    "store": {
+      "address": "广州市天河区棠下涌西路11号201",
+      "id": "6033",
+      "city": "广州市",
+      "name": "谈小娱-广州金融城店"
+    },
+    "tables": {
+      "27373": {
+        "id": "27373",
+        "address": "1号球桌",
+        "type": "中式台球",
+        "appointRecords": {}
+      },
+      "27374": {
+        "id": "27374",
+        "address": "2号球桌",
+        "type": "中式台球",
+        "appointRecords": {}
+      },
+      "27382": {
+        "id": "27382",
+        "address": "10号球桌",
+        "type": "中式台球",
+        "appointRecords": {
+          "2025-01-02": {
+            "08:41": true
+          }
+        }
+      },
+      "27383": {
+        "id": "27383",
+        "address": "11号球桌",
+        "type": "中式台球",
+        "appointRecords": {}
+      },
+      "27384": {
+        "id": "27384",
+        "address": "12号球桌",
+        "type": "中式台球",
+        "appointRecords": {
+          "2025-01-02": {
+            "08:41": true
+          }
+        }
+      },
+      "27385": {
+        "id": "27385",
+        "address": "13号球桌",
+        "type": "中式台球",
+        "appointRecords": {}
+      },
+      "27386": {
+        "id": "27386",
+        "address": "14号球桌",
+        "type": "中式台球",
+        "appointRecords": {}
+      },
+      "27387": {
+        "id": "27387",
+        "address": "15号球桌",
+        "type": "中式台球",
+        "appointRecords": {}
+      },
+      "27388": {
+        "id": "27388",
+        "address": "16号球桌",
+        "type": "中式台球",
+        "appointRecords": {}
+      },
+      "27389": {
+        "id": "27389",
+        "address": "17号球桌",
+        "type": "中式台球",
+        "appointRecords": {}
+      },
+      "27390": {
+        "id": "27390",
+        "address": "18号球桌",
+        "type": "中式台球",
+        "appointRecords": {}
+      },
+      "31216": {
+        "id": "31216",
+        "address": "3号球桌",
+        "type": "中式台球",
+        "appointRecords": {}
+      },
+      "31217": {
+        "id": "31217",
+        "address": "4号球桌",
+        "type": "中式台球",
+        "appointRecords": {}
+      },
+      "31218": {
+        "id": "31218",
+        "address": "5号球桌",
+        "type": "中式台球",
+        "appointRecords": {}
+      },
+      "31219": {
+        "id": "31219",
+        "address": "6号球桌",
+        "type": "中式台球",
+        "appointRecords": {}
+      },
+      "31220": {
+        "id": "31220",
+        "address": "7号球桌",
+        "type": "中式台球",
+        "appointRecords": {}
+      },
+      "31221": {
+        "id": "31221",
+        "address": "8号球桌",
+        "type": "中式台球",
+        "appointRecords": {}
+      },
+      "31222": {
+        "id": "31222",
+        "address": "9号球桌",
+        "type": "中式台球",
+        "appointRecords": {}
+      }
+    }
+  },
+  "6121": {
+    "store": {
+      "address": "广州市番禺区桥南街道南郊路189号402",
+      "id": "6121",
+      "city": "广州市",
+      "name": "谈小娱-广州哈街店"
+    },
+    "tables": {
+      "28287": {
+        "id": "28287",
+        "address": "1号球桌",
+        "type": "中式台球",
+        "appointRecords": {}
+      },
+      "28288": {
+        "id": "28288",
+        "address": "2号球桌",
+        "type": "中式台球",
+        "appointRecords": {}
+      },
+      "28289": {
+        "id": "28289",
+        "address": "3号球桌",
+        "type": "中式台球",
+        "appointRecords": {
+          "2025-01-02": {
+            "08:41": true
+          }
+        }
+      },
+      "28290": {
+        "id": "28290",
+        "address": "4号球桌",
+        "type": "中式台球",
+        "appointRecords": {}
+      },
+      "28291": {
+        "id": "28291",
+        "address": "5号球桌",
+        "type": "中式台球",
+        "appointRecords": {
+          "2025-01-02": {
+            "08:41": true
+          }
+        }
+      },
+      "28292": {
+        "id": "28292",
+        "address": "6号球桌",
+        "type": "中式台球",
+        "appointRecords": {}
+      },
+      "30326": {
+        "id": "30326",
+        "address": "7号球桌",
+        "type": "中式台球",
+        "appointRecords": {}
+      }
+    }
+  },
+  "6129": {
+    "store": {
+      "address": "广东省广州市增城区新塘镇创想路8号合生汇广场B1-04铺",
+      "id": "6129",
+      "city": "广州市",
+      "name": "谈小娱-广州合生汇店"
+    },
+    "tables": {
+      "28362": {
+        "id": "28362",
+        "address": "1号球桌",
+        "type": "中式台球",
+        "appointRecords": {}
+      },
+      "28363": {
+        "id": "28363",
+        "address": "2号球桌",
+        "type": "中式台球",
+        "appointRecords": {}
+      },
+      "28364": {
+        "id": "28364",
+        "address": "3号球桌",
+        "type": "中式台球",
+        "appointRecords": {
+          "2025-01-02": {
+            "08:41": true
+          }
+        }
+      },
+      "28366": {
+        "id": "28366",
+        "address": "5号球桌",
+        "type": "中式台球",
+        "appointRecords": {}
+      },
+      "28367": {
+        "id": "28367",
+        "address": "6号球桌",
+        "type": "中式台球",
+        "appointRecords": {}
+      },
+      "28368": {
+        "id": "28368",
+        "address": "7号球桌",
+        "type": "中式台球",
+        "appointRecords": {}
+      },
+      "28369": {
+        "id": "28369",
+        "address": "8号桌",
+        "type": "中式台球",
+        "appointRecords": {}
+      },
+      "28370": {
+        "id": "28370",
+        "address": "9号桌",
+        "type": "中式台球",
+        "appointRecords": {}
+      },
+      "28371": {
+        "id": "28371",
+        "address": "10号桌",
+        "type": "中式台球",
+        "appointRecords": {}
+      },
+      "28372": {
+        "id": "28372",
+        "address": "11号桌",
+        "type": "中式台球",
+        "appointRecords": {}
+      },
+      "28373": {
+        "id": "28373",
+        "address": "12号桌",
+        "type": "中式台球",
+        "appointRecords": {}
+      },
+      "28374": {
+        "id": "28374",
+        "address": "13号桌",
+        "type": "中式台球",
+        "appointRecords": {}
+      },
+      "31332": {
+        "id": "31332",
+        "address": "4号球桌",
+        "type": "中式台球",
+        "appointRecords": {}
+      }
+    }
+  },
+  "6216": {
+    "store": {
+      "address": "广州市海珠区石榴岗路14号2栋一楼原广州手表厂内江海大道龙涛小学/肯德基餐厅南行10米左转进入",
+      "id": "6216",
+      "city": "广州市",
+      "name": "谈小娱-广州赤岗店"
+    },
+    "tables": {
+      "29274": {
+        "id": "29274",
+        "address": "1号球桌",
+        "type": "中式台球",
+        "appointRecords": {}
+      },
+      "29275": {
+        "id": "29275",
+        "address": "2号球桌",
+        "type": "中式台球",
+        "appointRecords": {}
+      },
+      "29276": {
+        "id": "29276",
+        "address": "3号球桌",
+        "type": "中式台球",
+        "appointRecords": {
+          "2025-01-02": {
+            "08:41": true
+          }
+        }
+      },
+      "29277": {
+        "id": "29277",
+        "address": "4号球桌",
+        "type": "中式台球",
+        "appointRecords": {}
+      },
+      "29278": {
+        "id": "29278",
+        "address": "5号球桌",
+        "type": "中式台球",
+        "appointRecords": {}
+      },
+      "29279": {
+        "id": "29279",
+        "address": "6号球桌",
+        "type": "中式台球",
+        "appointRecords": {}
+      },
+      "29280": {
+        "id": "29280",
+        "address": "7号球桌",
+        "type": "中式台球",
+        "appointRecords": {}
+      },
+      "29281": {
+        "id": "29281",
+        "address": "8号球桌",
+        "type": "中式台球",
+        "appointRecords": {}
+      }
+    }
+  },
+  "6217": {
+    "store": {
+      "address": "广州市海珠区赤沙优乐购商业广场五楼（广东财经大学南门斜对面马路直入70米，乐易购超市楼上）",
+      "id": "6217",
+      "city": "广州市",
+      "name": "谈小娱-广州赤沙店"
+    },
+    "tables": {
+      "29283": {
+        "id": "29283",
+        "address": "8号球桌",
+        "type": "中式台球",
+        "appointRecords": {}
+      },
+      "29284": {
+        "id": "29284",
+        "address": "9号球桌",
+        "type": "中式台球",
+        "appointRecords": {}
+      },
+      "29285": {
+        "id": "29285",
+        "address": "10号球桌",
+        "type": "中式台球",
+        "appointRecords": {}
+      },
+      "29286": {
+        "id": "29286",
+        "address": "11号球桌",
+        "type": "中式台球",
+        "appointRecords": {}
+      },
+      "29287": {
+        "id": "29287",
+        "address": "5号球桌",
+        "type": "中式台球",
+        "appointRecords": {}
+      },
+      "29288": {
+        "id": "29288",
+        "address": "6号球桌",
+        "type": "中式台球",
+        "appointRecords": {}
+      },
+      "29289": {
+        "id": "29289",
+        "address": "7号球桌",
+        "type": "中式台球",
+        "appointRecords": {
+          "2025-01-02": {
+            "08:41": true
+          }
+        }
+      },
+      "29290": {
+        "id": "29290",
+        "address": "1号球桌",
+        "type": "中式台球",
+        "appointRecords": {
+          "2025-01-02": {
+            "08:41": true
+          }
+        }
+      },
+      "29291": {
+        "id": "29291",
+        "address": "2号球桌",
+        "type": "中式台球",
+        "appointRecords": {
+          "2025-01-02": {
+            "08:41": true
+          }
+        }
+      },
+      "29292": {
+        "id": "29292",
+        "address": "3号球桌",
+        "type": "中式台球",
+        "appointRecords": {
+          "2025-01-02": {
+            "08:41": true
+          }
+        }
+      },
+      "29293": {
+        "id": "29293",
+        "address": "4号球桌",
+        "type": "中式台球",
+        "appointRecords": {}
+      },
+      "39320": {
+        "id": "39320",
+        "address": "12号球桌",
+        "type": "中式台球",
+        "appointRecords": {
+          "2025-01-02": {
+            "08:41": true
+          }
+        }
+      },
+      "39321": {
+        "id": "39321",
+        "address": "13号球桌",
+        "type": "中式台球",
+        "appointRecords": {}
+      },
+      "39322": {
+        "id": "39322",
+        "address": "14号球桌",
+        "type": "中式台球",
+        "appointRecords": {
+          "2025-01-02": {
+            "08:41": true
+          }
+        }
+      },
+      "39323": {
+        "id": "39323",
+        "address": "15号球桌",
+        "type": "中式台球",
+        "appointRecords": {}
+      },
+      "39324": {
+        "id": "39324",
+        "address": "16号球桌",
+        "type": "中式台球",
+        "appointRecords": {
+          "2025-01-02": {
+            "08:41": true
+          }
+        }
+      },
+      "39325": {
+        "id": "39325",
+        "address": "17号球桌",
+        "type": "中式台球",
+        "appointRecords": {}
+      }
+    }
+  },
+  "6393": {
+    "store": {
+      "address": "广东省广州市海珠区星晖二街9号11号13号贰层自编01号铺",
+      "id": "6393",
+      "city": "广州市",
+      "name": "谈小娱-广州沥滘星晖园店"
+    },
+    "tables": {
+      "31061": {
+        "id": "31061",
+        "address": "1号球桌",
+        "type": "中式台球",
+        "appointRecords": {}
+      },
+      "31062": {
+        "id": "31062",
+        "address": "2号球桌",
+        "type": "中式台球",
+        "appointRecords": {
+          "2025-01-02": {
+            "08:41": true
+          }
+        }
+      },
+      "31063": {
+        "id": "31063",
+        "address": "3号球桌",
+        "type": "中式台球",
+        "appointRecords": {}
+      },
+      "31064": {
+        "id": "31064",
+        "address": "4号球桌",
+        "type": "中式台球",
+        "appointRecords": {}
+      },
+      "31065": {
+        "id": "31065",
+        "address": "5号桌",
+        "type": "中式台球",
+        "appointRecords": {
+          "2025-01-02": {
+            "08:41": true
+          }
+        }
+      },
+      "31066": {
+        "id": "31066",
+        "address": "6号桌",
+        "type": "中式台球",
+        "appointRecords": {
+          "2025-01-02": {
+            "08:41": true
+          }
+        }
+      },
+      "31993": {
+        "id": "31993",
+        "address": "7号桌",
+        "type": "中式台球",
+        "appointRecords": {}
+      }
+    }
+  },
+  "6417": {
+    "store": {
+      "address": "广东省广州市增城区小楼镇腊圃朝阳南路33号",
+      "id": "6417",
+      "city": "广州市",
+      "name": "谈小娱-广州增城腊圃店"
+    },
+    "tables": {
+      "31315": {
+        "id": "31315",
+        "address": "1号球桌",
+        "type": "中式台球",
+        "appointRecords": {}
+      },
+      "31316": {
+        "id": "31316",
+        "address": "2号球桌",
+        "type": "中式台球",
+        "appointRecords": {}
+      },
+      "31317": {
+        "id": "31317",
+        "address": "3号球桌",
+        "type": "中式台球",
+        "appointRecords": {}
+      },
+      "31318": {
+        "id": "31318",
+        "address": "4号球桌",
+        "type": "中式台球",
+        "appointRecords": {}
+      },
+      "31320": {
+        "id": "31320",
+        "address": "6号球桌",
+        "type": "中式台球",
+        "appointRecords": {}
+      },
+      "31321": {
+        "id": "31321",
+        "address": "7号球桌",
+        "type": "中式台球",
+        "appointRecords": {}
+      },
+      "31322": {
+        "id": "31322",
+        "address": "8号球桌",
+        "type": "中式台球",
+        "appointRecords": {}
+      },
+      "31323": {
+        "id": "31323",
+        "address": "9号球桌",
+        "type": "中式台球",
+        "appointRecords": {}
+      },
+      "31324": {
+        "id": "31324",
+        "address": "10号球桌",
+        "type": "中式台球",
+        "appointRecords": {}
+      },
+      "31325": {
+        "id": "31325",
+        "address": "11号桌",
+        "type": "中式台球",
+        "appointRecords": {}
+      },
+      "31326": {
+        "id": "31326",
+        "address": "12号桌",
+        "type": "中式台球",
+        "appointRecords": {}
+      },
+      "31327": {
+        "id": "31327",
+        "address": "13号桌",
+        "type": "中式台球",
+        "appointRecords": {}
+      },
+      "35875": {
+        "id": "35875",
+        "address": "5号球桌",
+        "type": "中式台球",
+        "appointRecords": {}
+      }
+    }
+  },
+  "6523": {
+    "store": {
+      "address": "广东省广州市番禺区桥南街花岸西街16号",
+      "id": "6523",
+      "city": "广州市",
+      "name": "谈小娱-广州海伦堡店"
+    },
+    "tables": {
+      "32611": {
+        "id": "32611",
+        "address": "1号球桌",
+        "type": "中式台球",
+        "appointRecords": {}
+      },
+      "32612": {
+        "id": "32612",
+        "address": "2号球桌",
+        "type": "中式台球",
+        "appointRecords": {}
+      },
+      "32613": {
+        "id": "32613",
+        "address": "3号球桌",
+        "type": "中式台球",
+        "appointRecords": {
+          "2025-01-02": {
+            "08:41": true
+          }
+        }
+      },
+      "32614": {
+        "id": "32614",
+        "address": "4号球桌",
+        "type": "中式台球",
+        "appointRecords": {}
+      },
+      "32615": {
+        "id": "32615",
+        "address": "5号球桌",
+        "type": "中式台球",
+        "appointRecords": {}
+      },
+      "32616": {
+        "id": "32616",
+        "address": "6号球桌",
+        "type": "中式台球",
+        "appointRecords": {}
+      },
+      "32617": {
+        "id": "32617",
+        "address": "7号球桌",
+        "type": "中式台球",
+        "appointRecords": {
+          "2025-01-02": {
+            "08:41": true
+          }
+        }
+      }
+    }
+  },
+  "6577": {
+    "store": {
+      "address": "广东省广州市白云区太和中路159号凯升文创汇A区3楼335-342室",
+      "id": "6577",
+      "city": "广州市",
+      "name": "谈小娱-广州太和金铂店"
+    },
+    "tables": {
+      "33254": {
+        "id": "33254",
+        "address": "1号球桌",
+        "type": "中式台球",
+        "appointRecords": {}
+      },
+      "33255": {
+        "id": "33255",
+        "address": "2号球桌",
+        "type": "中式台球",
+        "appointRecords": {}
+      },
+      "33256": {
+        "id": "33256",
+        "address": "3号球桌",
+        "type": "中式台球",
+        "appointRecords": {}
+      },
+      "33257": {
+        "id": "33257",
+        "address": "4号球桌",
+        "type": "中式台球",
+        "appointRecords": {}
+      },
+      "33258": {
+        "id": "33258",
+        "address": "5号球桌",
+        "type": "中式台球",
+        "appointRecords": {
+          "2025-01-02": {
+            "08:41": true
+          }
+        }
+      },
+      "33259": {
+        "id": "33259",
+        "address": "6号球桌",
+        "type": "中式台球",
+        "appointRecords": {}
+      },
+      "33260": {
+        "id": "33260",
+        "address": "7号球桌",
+        "type": "中式台球",
+        "appointRecords": {}
+      },
+      "33261": {
+        "id": "33261",
+        "address": "8号球桌",
+        "type": "中式台球",
+        "appointRecords": {}
+      },
+      "33262": {
+        "id": "33262",
+        "address": "9号球桌",
+        "type": "中式台球",
+        "appointRecords": {}
+      },
+      "33263": {
+        "id": "33263",
+        "address": "10号球桌",
+        "type": "中式台球",
+        "appointRecords": {}
+      },
+      "33264": {
+        "id": "33264",
+        "address": "11号球桌",
+        "type": "中式台球",
+        "appointRecords": {}
+      }
+    }
+  },
+  "6640": {
+    "store": {
+      "address": "广东省广州市花都区赤坭镇剑岭村七社五巷10号二楼",
+      "id": "6640",
+      "city": "广州市",
+      "name": "谈小娱-广州民航技术学院店"
+    },
+    "tables": {
+      "33971": {
+        "id": "33971",
+        "address": "1号桌",
+        "type": "中式台球",
+        "appointRecords": {}
+      },
+      "33972": {
+        "id": "33972",
+        "address": "2号桌",
+        "type": "中式台球",
+        "appointRecords": {}
+      },
+      "33973": {
+        "id": "33973",
+        "address": "3号桌",
+        "type": "中式台球",
+        "appointRecords": {}
+      },
+      "33974": {
+        "id": "33974",
+        "address": "4号桌",
+        "type": "中式台球",
+        "appointRecords": {}
+      },
+      "33976": {
+        "id": "33976",
+        "address": "5号球桌",
+        "type": "中式台球",
+        "appointRecords": {}
+      },
+      "33977": {
+        "id": "33977",
+        "address": "6号球桌",
+        "type": "中式台球",
+        "appointRecords": {}
+      }
+    }
+  },
+  "6732": {
+    "store": {
+      "address": "广东省广州市白云区白云湖街道大朗村朗兴路16号朗兴大厦B栋104号",
+      "id": "6732",
+      "city": "广州市",
+      "name": "谈小娱-广州大朗店"
+    },
+    "tables": {
+      "35245": {
+        "id": "35245",
+        "address": "1号球桌",
+        "type": "中式台球",
+        "appointRecords": {}
+      },
+      "35246": {
+        "id": "35246",
+        "address": "2号球桌",
+        "type": "中式台球",
+        "appointRecords": {}
+      },
+      "35247": {
+        "id": "35247",
+        "address": "3号球桌",
+        "type": "中式台球",
+        "appointRecords": {}
+      },
+      "35248": {
+        "id": "35248",
+        "address": "4号球桌",
+        "type": "中式台球",
+        "appointRecords": {}
+      },
+      "35249": {
+        "id": "35249",
+        "address": "5号球桌",
+        "type": "中式台球",
+        "appointRecords": {}
+      },
+      "35250": {
+        "id": "35250",
+        "address": "6号球桌",
+        "type": "中式台球",
+        "appointRecords": {}
+      }
+    }
+  },
+  "6757": {
+    "store": {
+      "address": "广东省广州市黄埔区永和街道万科里享家蔚来S13#202-204铺",
+      "id": "6757",
+      "city": "广州市",
+      "name": "谈小娱-广州永和店"
+    },
+    "tables": {
+      "35521": {
+        "id": "35521",
+        "address": "1号球桌",
+        "type": "中式台球",
+        "appointRecords": {}
+      },
+      "35522": {
+        "id": "35522",
+        "address": "2号球桌",
+        "type": "中式台球",
+        "appointRecords": {}
+      },
+      "35523": {
+        "id": "35523",
+        "address": "3号球桌",
+        "type": "中式台球",
+        "appointRecords": {}
+      },
+      "35524": {
+        "id": "35524",
+        "address": "4号球桌",
+        "type": "中式台球",
+        "appointRecords": {}
+      },
+      "35525": {
+        "id": "35525",
+        "address": "5号球桌",
+        "type": "中式台球",
+        "appointRecords": {}
+      },
+      "36525": {
+        "id": "36525",
+        "address": "666",
+        "type": "中式台球",
+        "appointRecords": {}
+      },
+      "36526": {
+        "id": "36526",
+        "address": "888",
+        "type": "中式台球",
+        "appointRecords": {}
+      }
+    }
+  },
+  "6819": {
+    "store": {
+      "address": "广东省广州市番禺区大石街官坑村工业一路8号1栋113铺",
+      "id": "6819",
+      "city": "广州市",
+      "name": "谈小娱-广州官坑店"
+    },
+    "tables": {
+      "36278": {
+        "id": "36278",
+        "address": "1号球桌",
+        "type": "中式台球",
+        "appointRecords": {}
+      },
+      "36279": {
+        "id": "36279",
+        "address": "2号球桌",
+        "type": "中式台球",
+        "appointRecords": {}
+      },
+      "36280": {
+        "id": "36280",
+        "address": "3号球桌",
+        "type": "中式台球",
+        "appointRecords": {}
+      },
+      "36281": {
+        "id": "36281",
+        "address": "4号球桌",
+        "type": "中式台球",
+        "appointRecords": {}
+      },
+      "36282": {
+        "id": "36282",
+        "address": "5号球桌",
+        "type": "中式台球",
+        "appointRecords": {}
+      }
+    }
+  },
+  "7052": {
+    "store": {
+      "address": "广东省广州市荔湾区荔湾路94号谈小娱台球西关首约店",
+      "id": "7052",
+      "city": "广州市",
+      "name": "谈小娱-广州西关首约店"
+    },
+    "tables": {
+      "38994": {
+        "id": "38994",
+        "address": "1号球桌",
+        "type": "中式台球",
+        "appointRecords": {}
+      },
+      "38995": {
+        "id": "38995",
+        "address": "2号球桌",
+        "type": "中式台球",
+        "appointRecords": {}
+      },
+      "38996": {
+        "id": "38996",
+        "address": "3号球桌",
+        "type": "中式台球",
+        "appointRecords": {}
+      },
+      "38997": {
+        "id": "38997",
+        "address": "4号球桌",
+        "type": "中式台球",
+        "appointRecords": {
+          "2025-01-02": {
+            "08:41": true
+          }
+        }
+      },
+      "38998": {
+        "id": "38998",
+        "address": "5号球桌",
+        "type": "中式台球",
+        "appointRecords": {}
+      },
+      "38999": {
+        "id": "38999",
+        "address": "6号球桌",
+        "type": "中式台球",
+        "appointRecords": {
+          "2025-01-02": {
+            "08:41": true
+          }
+        }
+      },
+      "39000": {
+        "id": "39000",
+        "address": "7号球桌",
+        "type": "中式台球",
+        "appointRecords": {}
+      }
+    }
+  },
+  "7059": {
+    "store": {
+      "address": "广东省广州市番禺区南村镇员岗中路11号之一2楼",
+      "id": "7059",
+      "city": "广州市",
+      "name": "谈小娱-广州员岗店"
+    },
+    "tables": {
+      "39065": {
+        "id": "39065",
+        "address": "1号球桌",
+        "type": "中式台球",
+        "appointRecords": {}
+      },
+      "39066": {
+        "id": "39066",
+        "address": "2号球桌",
+        "type": "中式台球",
+        "appointRecords": {
+          "2025-01-02": {
+            "08:41": true
+          }
+        }
+      },
+      "39067": {
+        "id": "39067",
+        "address": "3号球桌",
+        "type": "中式台球",
+        "appointRecords": {}
+      },
+      "39068": {
+        "id": "39068",
+        "address": "4号球桌",
+        "type": "中式台球",
+        "appointRecords": {}
+      },
+      "39069": {
+        "id": "39069",
+        "address": "5号球桌",
+        "type": "中式台球",
+        "appointRecords": {}
+      },
+      "39070": {
+        "id": "39070",
+        "address": "6号球桌",
+        "type": "中式台球",
+        "appointRecords": {
+          "2025-01-02": {
+            "08:41": true
+          }
+        }
+      },
+      "39071": {
+        "id": "39071",
+        "address": "7号球桌",
+        "type": "中式台球",
+        "appointRecords": {}
+      },
+      "39072": {
+        "id": "39072",
+        "address": "8号球桌",
+        "type": "中式台球",
+        "appointRecords": {}
+      },
+      "39073": {
+        "id": "39073",
+        "address": "9号球桌",
+        "type": "中式台球",
+        "appointRecords": {}
+      },
+      "39077": {
+        "id": "39077",
+        "address": "10号桌",
+        "type": "中式台球",
+        "appointRecords": {}
+      },
+      "39078": {
+        "id": "39078",
+        "address": "11号桌",
+        "type": "中式台球",
+        "appointRecords": {}
+      },
+      "39079": {
+        "id": "39079",
+        "address": "12号桌",
+        "type": "中式台球",
+        "appointRecords": {}
+      },
+      "40442": {
+        "id": "40442",
+        "address": "14号桌",
+        "type": "中式台球",
+        "appointRecords": {}
+      },
+      "40443": {
+        "id": "40443",
+        "address": "15号桌",
+        "type": "中式台球",
+        "appointRecords": {}
+      },
+      "40444": {
+        "id": "40444",
+        "address": "13号桌",
+        "type": "中式台球",
+        "appointRecords": {}
+      }
+    }
+  },
+  "7070": {
+    "store": {
+      "address": "广东省广州市荔湾区东沙街道南漖村南漖市场4楼A101房",
+      "id": "7070",
+      "city": "广州市",
+      "name": "谈小娱-广州南漖市场店"
+    },
+    "tables": {
+      "39206": {
+        "id": "39206",
+        "address": "1号球桌",
+        "type": "中式台球",
+        "appointRecords": {}
+      },
+      "39207": {
+        "id": "39207",
+        "address": "2号球桌",
+        "type": "中式台球",
+        "appointRecords": {}
+      },
+      "39208": {
+        "id": "39208",
+        "address": "3号球桌",
+        "type": "中式台球",
+        "appointRecords": {}
+      },
+      "39209": {
+        "id": "39209",
+        "address": "4号球桌",
+        "type": "中式台球",
+        "appointRecords": {}
+      },
+      "39210": {
+        "id": "39210",
+        "address": "5号球桌",
+        "type": "中式台球",
+        "appointRecords": {}
+      }
+    }
+  },
+  "7086": {
+    "store": {
+      "address": "广东省广州市南沙区南沙街道漾滨路138号",
+      "id": "7086",
+      "city": "广州市",
+      "name": "谈小娱-广州珠江湾店"
+    },
+    "tables": {
+      "39355": {
+        "id": "39355",
+        "address": "1号球桌",
+        "type": "中式台球",
+        "appointRecords": {}
+      },
+      "39356": {
+        "id": "39356",
+        "address": "2号球桌",
+        "type": "中式台球",
+        "appointRecords": {}
+      },
+      "39357": {
+        "id": "39357",
+        "address": "3号球桌",
+        "type": "中式台球",
+        "appointRecords": {}
+      },
+      "39358": {
+        "id": "39358",
+        "address": "4号球桌",
+        "type": "中式台球",
+        "appointRecords": {}
+      },
+      "39359": {
+        "id": "39359",
+        "address": "5号桌",
+        "type": "中式台球",
+        "appointRecords": {}
+      },
+      "39362": {
+        "id": "39362",
+        "address": "6号桌",
+        "type": "中式台球",
+        "appointRecords": {}
+      }
+    }
+  },
+  "7144": {
+    "store": {
+      "address": "广东省广州市白云区黄石东路173号二楼210",
+      "id": "7144",
+      "city": "广州市",
+      "name": "谈小娱-广州黄石东路店"
+    },
+    "tables": {
+      "40005": {
+        "id": "40005",
+        "address": "1号球桌",
+        "type": "中式台球",
+        "appointRecords": {
+          "2025-01-02": {
+            "08:41": true
+          }
+        }
+      },
+      "40006": {
+        "id": "40006",
+        "address": "2号球桌",
+        "type": "中式台球",
+        "appointRecords": {}
+      },
+      "40007": {
+        "id": "40007",
+        "address": "3号球桌",
+        "type": "中式台球",
+        "appointRecords": {}
+      },
+      "40008": {
+        "id": "40008",
+        "address": "4号球桌",
+        "type": "中式台球",
+        "appointRecords": {}
+      },
+      "40009": {
+        "id": "40009",
+        "address": "5号球桌",
+        "type": "中式台球",
+        "appointRecords": {}
+      },
+      "40010": {
+        "id": "40010",
+        "address": "6号球桌",
+        "type": "中式台球",
+        "appointRecords": {}
+      }
+    }
+  }
+}
