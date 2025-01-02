@@ -6,6 +6,7 @@ import dotenv from 'dotenv'
 import { mergeDetail, recordAppointment } from '../util'
 import timezone from 'dayjs/plugin/timezone'
 import utc from 'dayjs/plugin/utc'
+import { env } from 'node:process'
 
 env.TZ = 'Asia/Shanghai'
 
