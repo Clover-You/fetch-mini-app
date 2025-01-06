@@ -143,7 +143,7 @@ async function getTableById(id: string) {
 
 export async function xiaotieConvert(cache: Record<string, StoreDetail> = {}) {
   const result = await mergeDetail(cache, getXiaotieStores, getTableById)
-  spinner.info('No BOSS Processing completed')
+  spinner.info('XiaoTie Processing completed')
   spinner.stop()
 
   return result

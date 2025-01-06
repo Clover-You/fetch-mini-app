@@ -141,7 +141,7 @@ async function getBilliardsTable(id: string) {
 
 export async function koConvert(cache: Record<string, StoreDetail> = {}) {
   const result = await mergeDetail(cache, getKoStore, getBilliardsTable)
-  spinner.info('No BOSS Processing completed')
+  spinner.info('KO Processing completed')
   spinner.stop()
 
   return result
