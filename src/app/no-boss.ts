@@ -1,6 +1,16 @@
 import CryptoJS from 'crypto-js'
 import { isEmptyArr, mergeDetail } from '../util'
 import dayjs from 'dayjs'
+import { env } from 'node:process'
+import timezone from 'dayjs/plugin/timezone'
+import utc from 'dayjs/plugin/utc'
+
+env.TZ = 'Asia/Shanghai'
+
+dayjs.extend(utc)
+dayjs.extend(timezone)
+dayjs.tz.setDefault('Asia/Shanghai')
+dayjs.tz()
 
 const baseURL = 'https://www.5laoban.com/'
 
