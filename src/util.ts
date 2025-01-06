@@ -37,7 +37,15 @@ export async function mergeDetail(
   const tables = await Promise.all(
     recordValues.map(async ({ store }) => {
       const sid = store.id
-      return [sid, await getTable(sid)] as const
+
+      try {
+        const tableResp = await getTable(sid)
+        return [sid, tableResp] as const
+      } catch (err) {
+        console.error('store-id = ' + sid);
+
+        throw err
+      }
     })
   )
   const storeTableRecords = Object.fromEntries(tables)
