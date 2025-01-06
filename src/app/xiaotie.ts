@@ -7,6 +7,7 @@ import { mergeDetail, recordAppointment } from '../util'
 import timezone from 'dayjs/plugin/timezone'
 import utc from 'dayjs/plugin/utc'
 import { env } from 'node:process'
+import ora from 'ora'
 
 env.TZ = 'Asia/Shanghai'
 
@@ -33,9 +34,11 @@ function getSign() {
 
 const userToken = process.env.XIAOTIE_TOKEN as string
 
-
+const spinner = ora('Begin handle API of XiaoTie').start()
 
 async function getXiaotieStores() {
+  spinner.start('Fetch: XiaoTie store list API')
+
   const URL = '/api/client/info/sites/'
 
   const { md5: sign, timestamp } = getSign()
@@ -50,8 +53,12 @@ async function getXiaotieStores() {
   }
 
   let records: Store[] = []
+  let pageNum = 1
 
   for (; ;) {
+    spinner.info(`Fetch: Page ${pageNum}`)
+    pageNum++;
+
     paramJson.limit += 10
     paramJson.skip += 10
     const params = qs.stringify(paramJson)
@@ -83,11 +90,14 @@ async function getXiaotieStores() {
 
     records = [...records, ...stores]
   }
+  spinner.info(`Fetch: Store data retrieval completed, a total of ${records.length} piece of data`)
+  spinner.succeed('Sotre fetch successful...')
 
   return records
 }
 
 async function getTableById(id: string) {
+  spinner.start(`Fetch: Get store table by ${id}}`)
   const URL = '/api/client/info/site_details/'
 
   const { md5: sign, timestamp } = getSign()
@@ -107,7 +117,8 @@ async function getTableById(id: string) {
   const tables = json.Results.tables as any[]
   const current = dayjs().format('HH:mm')
 
-  return tables.map<Table>(it => {
+
+  const result = tables.map<Table>(it => {
     const appointRecords: Record<string, Record<string, boolean>> = {}
 
     // 在用
@@ -123,10 +134,19 @@ async function getTableById(id: string) {
       appointRecords
     }
   })
+
+  spinner.succeed(`Fetch: Successfully obtained Table by ${id}`)
+  spinner.start(`Sotre fetch successful...`)
+
+  return result
 }
 
-export function xiaotieConvert(cache: Record<string, StoreDetail> = {}) {
-  return mergeDetail(cache, getXiaotieStores, getTableById)
+export async function xiaotieConvert(cache: Record<string, StoreDetail> = {}) {
+  const result = await mergeDetail(cache, getXiaotieStores, getTableById)
+  spinner.info('No BOSS Processing completed')
+  spinner.stop()
+
+  return result
 }
 
 const TypeConvertor: Record<number, string> = {

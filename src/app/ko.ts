@@ -4,6 +4,7 @@ import CryptoJs from 'crypto-js'
 import timezone from 'dayjs/plugin/timezone'
 import utc from 'dayjs/plugin/utc'
 import { env } from 'node:process'
+import ora from 'ora'
 
 env.TZ = 'Asia/Shanghai'
 
@@ -17,6 +18,7 @@ const SIGN_KEY = 'rb8emaZfsWNuoUSo'
 const STORE_LIST_METHOD = 'com.yuyuka.billiards.api.new.billiards.rcmd.list'
 const STORE_METHOD = 'com.yuyuka.billiards.api.user.table.list.query'
 
+const spinner = ora('Begin handle API of KO').start()
 
 const param = {
   channelCode: 'h5_api_get',
@@ -59,11 +61,14 @@ function request(bizContent: object, method: string) {
 }
 
 async function getKoStore() {
+  spinner.start('Fetch: KO store list API')
   let records: Store[] = []
 
   let pageNum = 1
 
   for (; ;) {
+    spinner.info(`Fetch: Page ${pageNum}`)
+
     const bizContent = {
       billiardsName: '',
       latitude: null,
@@ -96,10 +101,15 @@ async function getKoStore() {
     pageNum++
   }
 
+  spinner.info(`Fetch: Store data retrieval completed, a total of ${records.length} piece of data`)
+  spinner.succeed('Sotre fetch successful...')
+
   return records
 }
 
 async function getBilliardsTable(id: string) {
+  spinner.start(`Fetch: Get store table by ${id}}`)
+
   const result = await request({ id: id + '' }, STORE_METHOD)
   const resp: any = await result.json()
   const json = JSON.parse(resp.bizContent)
@@ -123,10 +133,16 @@ async function getBilliardsTable(id: string) {
       }
     })
   })
+  spinner.succeed(`Fetch: Successfully obtained Table by ${id}`)
+  spinner.start(`Sotre fetch successful...`)
 
   return records
 }
 
-export function koConvert(cache: Record<string, StoreDetail> = {}) {
-  return mergeDetail(cache, getKoStore, getBilliardsTable)
+export async function koConvert(cache: Record<string, StoreDetail> = {}) {
+  const result = await mergeDetail(cache, getKoStore, getBilliardsTable)
+  spinner.info('No BOSS Processing completed')
+  spinner.stop()
+
+  return result
 }
