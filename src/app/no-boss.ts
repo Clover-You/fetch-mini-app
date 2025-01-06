@@ -47,7 +47,7 @@ export function noBossConvert(appId: string, appVersion: string, cache: Record<s
       formData.set('mid', 8674)
       formData.set('citycode', 20)
       formData.set('page', pageNum)
-      formData.set('limit', 100)
+      formData.set('limit', 20)
 
       const resp = await fetch(BASE_URL + URI, {
         method: 'POST',
