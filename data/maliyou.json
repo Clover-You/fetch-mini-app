@@ -40,6 +40,9 @@
             "21": true,
             "22": true,
             "23": true
+          },
+          "2025-01-15": {
+            "16": true
           }
         }
       }
@@ -77,7 +80,8 @@
             "12": true,
             "13": true,
             "14": true,
-            "15": true
+            "15": true,
+            "16": true
           }
         }
       }
@@ -132,7 +136,9 @@
             "17": true,
             "18": true,
             "19": true,
-            "20": true
+            "20": true,
+            "21": true,
+            "22": true
           }
         }
       }
@@ -370,6 +376,9 @@
             "21": true,
             "22": true,
             "23": true
+          },
+          "2025-01-15": {
+            "16": true
           }
         }
       }
@@ -431,7 +440,10 @@
             "1": true,
             "2": true,
             "3": true,
-            "4": true
+            "4": true,
+            "14": true,
+            "15": true,
+            "16": true
           }
         }
       }
@@ -508,7 +520,8 @@
             "12": true,
             "13": true,
             "14": true,
-            "15": true
+            "15": true,
+            "16": true
           }
         }
       }
@@ -668,7 +681,8 @@
           "2025-01-15": {
             "13": true,
             "14": true,
-            "15": true
+            "15": true,
+            "16": true
           }
         }
       }
@@ -686,7 +700,17 @@
         "id": "19291",
         "address": "V801一帆风顺",
         "type": "棋牌",
-        "appointRecords": {}
+        "appointRecords": {
+          "2025-01-14": {
+            "17": true,
+            "18": true,
+            "19": true,
+            "20": true,
+            "21": true,
+            "22": true,
+            "23": true
+          }
+        }
       }
     }
   },
@@ -708,7 +732,11 @@
             "14": true,
             "15": true,
             "16": true,
-            "17": true
+            "17": true,
+            "18": true,
+            "19": true,
+            "20": true,
+            "21": true
           }
         }
       }
@@ -835,7 +863,8 @@
             "18": true,
             "19": true,
             "20": true,
-            "21": true
+            "21": true,
+            "22": true
           }
         }
       }
@@ -954,7 +983,10 @@
             "14": true,
             "15": true,
             "16": true,
-            "17": true
+            "17": true,
+            "18": true,
+            "19": true,
+            "20": true
           }
         }
       }
@@ -978,7 +1010,8 @@
             "19": true,
             "20": true,
             "21": true,
-            "22": true
+            "22": true,
+            "23": true
           }
         }
       }
@@ -1209,7 +1242,22 @@
             "23": true
           },
           "2025-01-15": {
-            "13": true
+            "1": true,
+            "2": true,
+            "3": true,
+            "4": true,
+            "5": true,
+            "6": true,
+            "7": true,
+            "8": true,
+            "9": true,
+            "10": true,
+            "11": true,
+            "12": true,
+            "13": true,
+            "14": true,
+            "15": true,
+            "16": true
           }
         }
       }
@@ -1304,7 +1352,8 @@
             "17": true,
             "18": true,
             "19": true,
-            "20": true
+            "20": true,
+            "21": true
           }
         }
       },
@@ -1312,7 +1361,12 @@
         "id": "24716",
         "address": "1号桌",
         "type": "棋牌",
-        "appointRecords": {}
+        "appointRecords": {
+          "2025-01-14": {
+            "17": true,
+            "18": true
+          }
+        }
       }
     }
   },
@@ -1357,7 +1411,8 @@
             "12": true,
             "13": true,
             "14": true,
-            "15": true
+            "15": true,
+            "16": true
           }
         }
       }
@@ -1612,7 +1667,8 @@
             "19": true,
             "20": true,
             "21": true,
-            "22": true
+            "22": true,
+            "23": true
           }
         }
       }
@@ -1696,7 +1752,8 @@
             "19": true,
             "20": true,
             "21": true,
-            "22": true
+            "22": true,
+            "23": true
           }
         }
       }
@@ -1844,7 +1901,12 @@
             "15": true,
             "16": true,
             "17": true,
-            "18": true
+            "18": true,
+            "19": true,
+            "20": true,
+            "21": true,
+            "22": true,
+            "23": true
           }
         }
       }
@@ -1862,7 +1924,20 @@
         "id": "26483",
         "address": "V801 一帆风顺",
         "type": "棋牌",
-        "appointRecords": {}
+        "appointRecords": {
+          "2025-01-14": {
+            "17": true,
+            "18": true,
+            "19": true,
+            "20": true,
+            "21": true,
+            "22": true,
+            "23": true
+          },
+          "2025-01-15": {
+            "1": true
+          }
+        }
       }
     }
   },
@@ -1894,7 +1969,9 @@
           "2025-01-15": {
             "1": true,
             "2": true,
-            "3": true
+            "3": true,
+            "4": true,
+            "5": true
           }
         }
       }
@@ -2043,7 +2120,8 @@
             "2": true,
             "13": true,
             "14": true,
-            "15": true
+            "15": true,
+            "16": true
           }
         }
       }
@@ -2199,7 +2277,8 @@
             "15": true,
             "16": true,
             "17": true,
-            "18": true
+            "18": true,
+            "20": true
           }
         }
       }
@@ -2253,6 +2332,7 @@
             "15": true,
             "16": true,
             "17": true,
+            "18": true,
             "20": true,
             "21": true,
             "22": true,
@@ -2283,7 +2363,11 @@
             "14": true,
             "15": true,
             "16": true,
-            "17": true
+            "17": true,
+            "18": true,
+            "19": true,
+            "20": true,
+            "21": true
           }
         }
       }
@@ -2330,7 +2414,8 @@
             "12": true,
             "13": true,
             "14": true,
-            "15": true
+            "15": true,
+            "16": true
           }
         }
       }
@@ -2414,6 +2499,12 @@
             "21": true,
             "22": true,
             "23": true
+          },
+          "2025-01-15": {
+            "13": true,
+            "14": true,
+            "15": true,
+            "16": true
           }
         }
       }
@@ -2576,6 +2667,7 @@
             "14": true,
             "15": true,
             "16": true,
+            "17": true,
             "19": true,
             "20": true,
             "21": true,
@@ -2630,6 +2722,7 @@
         "type": "棋牌",
         "appointRecords": {
           "2025-01-14": {
+            "17": true,
             "18": true,
             "19": true,
             "20": true,
@@ -2702,6 +2795,7 @@
             "17": true,
             "18": true,
             "19": true,
+            "20": true,
             "21": true,
             "22": true,
             "23": true
@@ -2794,7 +2888,10 @@
             "17": true,
             "18": true,
             "19": true,
-            "20": true
+            "20": true,
+            "21": true,
+            "22": true,
+            "23": true
           }
         }
       }
@@ -2996,7 +3093,8 @@
             "12": true,
             "13": true,
             "14": true,
-            "15": true
+            "15": true,
+            "16": true
           }
         }
       }
@@ -3059,7 +3157,8 @@
             "12": true,
             "13": true,
             "14": true,
-            "15": true
+            "15": true,
+            "16": true
           }
         }
       }
