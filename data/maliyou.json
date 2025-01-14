@@ -73,7 +73,10 @@
           },
           "2025-01-15": {
             "1": true,
-            "2": true
+            "2": true,
+            "12": true,
+            "13": true,
+            "14": true
           }
         }
       }
@@ -584,6 +587,7 @@
             "16": true,
             "17": true,
             "18": true,
+            "19": true,
             "20": true,
             "21": true,
             "22": true,
@@ -740,6 +744,7 @@
         "type": "棋牌",
         "appointRecords": {
           "2025-01-14": {
+            "15": true,
             "16": true,
             "17": true,
             "18": true,
@@ -979,6 +984,10 @@
             "21": true,
             "22": true,
             "23": true
+          },
+          "2025-01-15": {
+            "1": true,
+            "2": true
           }
         }
       },
@@ -1002,7 +1011,15 @@
         "id": "24032",
         "address": "V801 一帆风顺",
         "type": "棋牌",
-        "appointRecords": {}
+        "appointRecords": {
+          "2025-01-14": {
+            "15": true,
+            "16": true,
+            "17": true,
+            "18": true,
+            "19": true
+          }
+        }
       }
     }
   },
@@ -1194,7 +1211,15 @@
         "id": "22869",
         "address": "V801 一帆风顺",
         "type": "棋牌",
-        "appointRecords": {}
+        "appointRecords": {
+          "2025-01-14": {
+            "15": true,
+            "16": true,
+            "17": true,
+            "18": true,
+            "19": true
+          }
+        }
       },
       "22870": {
         "id": "22870",
@@ -1390,6 +1415,7 @@
             "14": true,
             "15": true,
             "16": true,
+            "17": true,
             "19": true,
             "20": true,
             "21": true,
@@ -1822,7 +1848,12 @@
           "2025-01-14": {
             "13": true,
             "14": true,
-            "15": true
+            "15": true,
+            "16": true,
+            "17": true,
+            "18": true,
+            "19": true,
+            "20": true
           }
         }
       }
@@ -1849,7 +1880,10 @@
             "17": true,
             "18": true,
             "19": true,
-            "20": true
+            "20": true,
+            "21": true,
+            "22": true,
+            "23": true
           }
         }
       }
@@ -2529,6 +2563,7 @@
             "16": true,
             "17": true,
             "18": true,
+            "19": true,
             "22": true,
             "23": true
           },
