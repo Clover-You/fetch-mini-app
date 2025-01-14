@@ -11,8 +11,8 @@ export const appList = [
     excutor: koConvert,
     name: 'ko'
   },
-  // {
-  //   excutor: (c: any) => noBossConvert('wx9be62f8bb91b02c7', '3.112.2', c),
-  //   name: 'maliyou'
-  // },
+  {
+    excutor: (c: any) => noBossConvert('wx9be62f8bb91b02c7', '3.112.2', c),
+    name: 'maliyou'
+  },
 ] as const
