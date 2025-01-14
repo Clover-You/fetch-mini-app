@@ -29,7 +29,11 @@
         "id": "45553693-fe37-4936-a5e7-95056221eee6",
         "address": "A03",
         "type": "中式台球",
-        "appointRecords": {}
+        "appointRecords": {
+          "2025-01-14": {
+            "14:19": true
+          }
+        }
       },
       "5d2c6ace-d51a-45ee-98cc-df5fd8e54212": {
         "id": "5d2c6ace-d51a-45ee-98cc-df5fd8e54212",
@@ -53,7 +57,11 @@
         "id": "98292bcf-43d2-498e-991d-fe8609a83c0a",
         "address": "A11",
         "type": "中式台球",
-        "appointRecords": {}
+        "appointRecords": {
+          "2025-01-14": {
+            "14:19": true
+          }
+        }
       },
       "b736480d-934e-45a2-bebb-96070c11689f": {
         "id": "b736480d-934e-45a2-bebb-96070c11689f",
@@ -119,7 +127,11 @@
         "id": "310272bc-b81e-4dff-ad3c-8d24fe874174",
         "address": "A07",
         "type": "中式台球",
-        "appointRecords": {}
+        "appointRecords": {
+          "2025-01-14": {
+            "14:19": true
+          }
+        }
       },
       "659761e9-d464-4b24-a8ba-e131e0ec3112": {
         "id": "659761e9-d464-4b24-a8ba-e131e0ec3112",
@@ -193,7 +205,11 @@
         "id": "155d7205-b670-48b2-b2da-6f050cc8aa2a",
         "address": "A07",
         "type": "中式台球",
-        "appointRecords": {}
+        "appointRecords": {
+          "2025-01-14": {
+            "14:19": true
+          }
+        }
       },
       "ea550b27-6e85-4ac4-97d4-94923fdf023c": {
         "id": "ea550b27-6e85-4ac4-97d4-94923fdf023c",
@@ -223,13 +239,21 @@
         "id": "7c5a17e0-c161-40a6-9fec-658a6e8f4371",
         "address": "A01",
         "type": "中式台球",
-        "appointRecords": {}
+        "appointRecords": {
+          "2025-01-14": {
+            "14:19": true
+          }
+        }
       },
       "7ea77182-b05a-41a8-b8d6-4f59014986e4": {
         "id": "7ea77182-b05a-41a8-b8d6-4f59014986e4",
         "address": "Q02",
         "type": "棋牌",
-        "appointRecords": {}
+        "appointRecords": {
+          "2025-01-14": {
+            "14:19": true
+          }
+        }
       }
     }
   },
@@ -375,7 +399,11 @@
         "id": "30e82672-ab1c-44c4-90b1-7e68e857cef4",
         "address": "🀄️Q06",
         "type": "棋牌",
-        "appointRecords": {}
+        "appointRecords": {
+          "2025-01-14": {
+            "14:19": true
+          }
+        }
       },
       "977682d4-2c07-4e33-b941-52f1037af3c8": {
         "id": "977682d4-2c07-4e33-b941-52f1037af3c8",
@@ -467,7 +495,8 @@
         "type": "棋牌",
         "appointRecords": {
           "2025-01-14": {
-            "13:36": true
+            "13:36": true,
+            "14:19": true
           }
         }
       },
@@ -531,7 +560,8 @@
         "type": "棋牌",
         "appointRecords": {
           "2025-01-14": {
-            "13:36": true
+            "13:36": true,
+            "14:19": true
           }
         }
       },
@@ -583,7 +613,11 @@
         "id": "8be65ec5-6778-4052-a6e6-85dd5c0cc1fe",
         "address": "A02",
         "type": "中式台球",
-        "appointRecords": {}
+        "appointRecords": {
+          "2025-01-14": {
+            "14:19": true
+          }
+        }
       },
       "b2dce40c-e333-4f94-959f-e7ded05c35a6": {
         "id": "b2dce40c-e333-4f94-959f-e7ded05c35a6",
@@ -979,7 +1013,8 @@
         "type": "中式台球",
         "appointRecords": {
           "2025-01-14": {
-            "13:36": true
+            "13:36": true,
+            "14:19": true
           }
         }
       },
@@ -1173,7 +1208,8 @@
         "type": "中式台球",
         "appointRecords": {
           "2025-01-14": {
-            "13:36": true
+            "13:36": true,
+            "14:19": true
           }
         }
       },
@@ -1189,7 +1225,8 @@
         "type": "中式台球",
         "appointRecords": {
           "2025-01-14": {
-            "13:36": true
+            "13:36": true,
+            "14:19": true
           }
         }
       }
@@ -1207,7 +1244,11 @@
         "id": "6867bd08-7be3-4554-8004-03c58fbe7c01",
         "address": "A02",
         "type": "中式台球",
-        "appointRecords": {}
+        "appointRecords": {
+          "2025-01-14": {
+            "14:19": true
+          }
+        }
       },
       "a9315d67-eb9f-460c-bc74-1f5420a67f5b": {
         "id": "a9315d67-eb9f-460c-bc74-1f5420a67f5b",
@@ -1289,7 +1330,11 @@
         "id": "fad7ea6b-59c0-49e6-bbdc-2fbf753e0786",
         "address": "A05",
         "type": "中式台球",
-        "appointRecords": {}
+        "appointRecords": {
+          "2025-01-14": {
+            "14:19": true
+          }
+        }
       },
       "c5d2aa7b-62b2-4cfc-adfe-bf0c9bc0a911": {
         "id": "c5d2aa7b-62b2-4cfc-adfe-bf0c9bc0a911",
@@ -1429,7 +1474,11 @@
         "id": "b88cb0d1-e7ce-48cc-8fb3-3ce41257f505",
         "address": "A07",
         "type": "中式台球",
-        "appointRecords": {}
+        "appointRecords": {
+          "2025-01-14": {
+            "14:19": true
+          }
+        }
       },
       "0c87a0e0-17c6-4efe-a4a2-b609b71d006f": {
         "id": "0c87a0e0-17c6-4efe-a4a2-b609b71d006f",
@@ -1553,7 +1602,8 @@
         "type": "中式台球",
         "appointRecords": {
           "2025-01-14": {
-            "13:36": true
+            "13:36": true,
+            "14:19": true
           }
         }
       },
@@ -1569,7 +1619,8 @@
         "type": "中式台球",
         "appointRecords": {
           "2025-01-14": {
-            "13:36": true
+            "13:36": true,
+            "14:19": true
           }
         }
       },
@@ -1621,7 +1672,8 @@
         "type": "中式台球",
         "appointRecords": {
           "2025-01-14": {
-            "13:36": true
+            "13:36": true,
+            "14:19": true
           }
         }
       },
@@ -1641,7 +1693,11 @@
         "id": "d5787d74-d99e-4856-809d-f829209d8904",
         "address": "A06",
         "type": "中式台球",
-        "appointRecords": {}
+        "appointRecords": {
+          "2025-01-14": {
+            "14:19": true
+          }
+        }
       },
       "208d0f58-8464-43c8-bd92-b74b225c29bb": {
         "id": "208d0f58-8464-43c8-bd92-b74b225c29bb",
@@ -1847,7 +1903,11 @@
         "id": "f46958d0-df8a-42fb-a93b-8d552fbc7c6b",
         "address": "A05",
         "type": "中式台球",
-        "appointRecords": {}
+        "appointRecords": {
+          "2025-01-14": {
+            "14:19": true
+          }
+        }
       },
       "2840ba1e-8472-44d1-9163-aca39c0c6245": {
         "id": "2840ba1e-8472-44d1-9163-aca39c0c6245",
@@ -1859,7 +1919,11 @@
         "id": "a54f3ef6-994e-445a-a994-1914c6eede54",
         "address": "A02",
         "type": "中式台球",
-        "appointRecords": {}
+        "appointRecords": {
+          "2025-01-14": {
+            "14:19": true
+          }
+        }
       }
     }
   },
@@ -2045,7 +2109,11 @@
         "id": "0519aec5-430e-4ba7-9bc2-9af0376c1889",
         "address": "Q02",
         "type": "棋牌",
-        "appointRecords": {}
+        "appointRecords": {
+          "2025-01-14": {
+            "14:19": true
+          }
+        }
       },
       "b63235ab-5cf9-41af-83ad-99e3f95473c8": {
         "id": "b63235ab-5cf9-41af-83ad-99e3f95473c8",
@@ -2053,7 +2121,8 @@
         "type": "中式台球",
         "appointRecords": {
           "2025-01-14": {
-            "13:36": true
+            "13:36": true,
+            "14:19": true
           }
         }
       },
@@ -2091,7 +2160,8 @@
         "type": "中式台球",
         "appointRecords": {
           "2025-01-14": {
-            "13:36": true
+            "13:36": true,
+            "14:19": true
           }
         }
       },
@@ -2111,7 +2181,11 @@
         "id": "0f75b90f-c101-471b-8e52-a9688816f8bd",
         "address": "A03",
         "type": "中式台球",
-        "appointRecords": {}
+        "appointRecords": {
+          "2025-01-14": {
+            "14:19": true
+          }
+        }
       },
       "30be48b6-2ed1-4ea4-9e0f-c3f4cfd7aff3": {
         "id": "30be48b6-2ed1-4ea4-9e0f-c3f4cfd7aff3",
@@ -2119,7 +2193,8 @@
         "type": "中式台球",
         "appointRecords": {
           "2025-01-14": {
-            "13:36": true
+            "13:36": true,
+            "14:19": true
           }
         }
       },
@@ -2221,7 +2296,11 @@
         "id": "a36600da-cba6-4a48-bd57-3facc970ffd1",
         "address": "A04",
         "type": "中式台球",
-        "appointRecords": {}
+        "appointRecords": {
+          "2025-01-14": {
+            "14:19": true
+          }
+        }
       },
       "a8018b11-bf6a-44f3-837d-5d9fb8994a6c": {
         "id": "a8018b11-bf6a-44f3-837d-5d9fb8994a6c",
@@ -2239,7 +2318,11 @@
         "id": "76357621-4b92-4a04-872c-96ea7f597b16",
         "address": "A07",
         "type": "中式台球",
-        "appointRecords": {}
+        "appointRecords": {
+          "2025-01-14": {
+            "14:19": true
+          }
+        }
       },
       "50040594-e0cc-46b8-af0d-17e4eea5aa86": {
         "id": "50040594-e0cc-46b8-af0d-17e4eea5aa86",
@@ -2357,7 +2440,8 @@
         "type": "中式台球",
         "appointRecords": {
           "2025-01-14": {
-            "13:36": true
+            "13:36": true,
+            "14:19": true
           }
         }
       },
@@ -2377,7 +2461,11 @@
         "id": "a861440f-7efc-4a04-8972-00ef97d9ca34",
         "address": "A03",
         "type": "中式台球",
-        "appointRecords": {}
+        "appointRecords": {
+          "2025-01-14": {
+            "14:19": true
+          }
+        }
       },
       "aa890094-f3bc-449c-b599-1341537b8747": {
         "id": "aa890094-f3bc-449c-b599-1341537b8747",
@@ -2391,7 +2479,8 @@
         "type": "中式台球",
         "appointRecords": {
           "2025-01-14": {
-            "13:36": true
+            "13:36": true,
+            "14:19": true
           }
         }
       },
@@ -2445,7 +2534,11 @@
         "id": "4cecb6d7-62e7-4a46-87e8-20c480faff85",
         "address": "A07",
         "type": "中式台球",
-        "appointRecords": {}
+        "appointRecords": {
+          "2025-01-14": {
+            "14:19": true
+          }
+        }
       },
       "e1d22cfe-06f1-4137-bbd2-a0bdc261ce3e": {
         "id": "e1d22cfe-06f1-4137-bbd2-a0bdc261ce3e",
@@ -2453,7 +2546,8 @@
         "type": "中式台球",
         "appointRecords": {
           "2025-01-14": {
-            "13:36": true
+            "13:36": true,
+            "14:19": true
           }
         }
       },
@@ -2541,7 +2635,11 @@
         "id": "0070291e-753b-4ca6-8d4f-6ce63d3af9c7",
         "address": "A05",
         "type": "中式台球",
-        "appointRecords": {}
+        "appointRecords": {
+          "2025-01-14": {
+            "14:19": true
+          }
+        }
       },
       "22c0fa39-98ff-4263-9e7a-810ad1288c3f": {
         "id": "22c0fa39-98ff-4263-9e7a-810ad1288c3f",
@@ -2642,7 +2740,11 @@
         "id": "e75f8b75-b097-46dc-af7b-96979e5e9e4d",
         "address": "A07",
         "type": "中式台球",
-        "appointRecords": {}
+        "appointRecords": {
+          "2025-01-14": {
+            "14:19": true
+          }
+        }
       },
       "94250832-c073-42a3-8048-e96f5bc48a49": {
         "id": "94250832-c073-42a3-8048-e96f5bc48a49",
@@ -2720,7 +2822,8 @@
         "type": "中式台球",
         "appointRecords": {
           "2025-01-14": {
-            "13:36": true
+            "13:36": true,
+            "14:19": true
           }
         }
       },
@@ -2792,7 +2895,11 @@
         "id": "76358b7b-ad83-49a3-a700-9ffedf92d3e9",
         "address": "A02",
         "type": "中式台球",
-        "appointRecords": {}
+        "appointRecords": {
+          "2025-01-14": {
+            "14:19": true
+          }
+        }
       },
       "21003be7-977f-4914-88da-193561ae6e06": {
         "id": "21003be7-977f-4914-88da-193561ae6e06",
@@ -2878,7 +2985,8 @@
         "type": "中式台球",
         "appointRecords": {
           "2025-01-14": {
-            "13:36": true
+            "13:36": true,
+            "14:19": true
           }
         }
       },
@@ -2892,7 +3000,11 @@
         "id": "a04cc45c-611f-4625-8cf0-1203a7b7d8dd",
         "address": "A10",
         "type": "中式台球",
-        "appointRecords": {}
+        "appointRecords": {
+          "2025-01-14": {
+            "14:19": true
+          }
+        }
       },
       "be2ab57f-44b4-4c66-b24b-071ac35fe023": {
         "id": "be2ab57f-44b4-4c66-b24b-071ac35fe023",
@@ -2916,7 +3028,11 @@
         "id": "ee6985ca-1696-4a00-b2ba-b2428d0ce7b7",
         "address": "A02",
         "type": "中式台球",
-        "appointRecords": {}
+        "appointRecords": {
+          "2025-01-14": {
+            "14:19": true
+          }
+        }
       },
       "6d969380-2cfc-4f1e-896d-10e7f6a86032": {
         "id": "6d969380-2cfc-4f1e-896d-10e7f6a86032",
@@ -2950,7 +3066,11 @@
         "id": "272b5087-d562-4004-849d-f34b253fa0ee",
         "address": "A01",
         "type": "中式台球",
-        "appointRecords": {}
+        "appointRecords": {
+          "2025-01-14": {
+            "14:19": true
+          }
+        }
       },
       "cf08ba55-5787-470c-953d-8759a0ce4eed": {
         "id": "cf08ba55-5787-470c-953d-8759a0ce4eed",
@@ -2986,7 +3106,8 @@
         "type": "中式台球",
         "appointRecords": {
           "2025-01-14": {
-            "13:36": true
+            "13:36": true,
+            "14:19": true
           }
         }
       },
@@ -3088,7 +3209,11 @@
         "id": "e09bd458-9b4e-4a53-83bc-e4925a1711f7",
         "address": "A05",
         "type": "中式台球",
-        "appointRecords": {}
+        "appointRecords": {
+          "2025-01-14": {
+            "14:19": true
+          }
+        }
       },
       "97bf3037-9051-4af4-8b65-6460a2989619": {
         "id": "97bf3037-9051-4af4-8b65-6460a2989619",
@@ -3186,7 +3311,11 @@
         "id": "8d6a0397-37b2-48e9-a4cb-ad73df1d23fa",
         "address": "A05",
         "type": "中式台球",
-        "appointRecords": {}
+        "appointRecords": {
+          "2025-01-14": {
+            "14:19": true
+          }
+        }
       },
       "b4fae334-55a0-4252-8ffa-272f926fd2c4": {
         "id": "b4fae334-55a0-4252-8ffa-272f926fd2c4",
@@ -3258,7 +3387,8 @@
         "type": "中式台球",
         "appointRecords": {
           "2025-01-14": {
-            "13:36": true
+            "13:36": true,
+            "14:19": true
           }
         }
       }
@@ -3365,7 +3495,11 @@
         "id": "0e676dc4-73b9-4a8c-83f7-7f4a3197e13d",
         "address": "A02",
         "type": "中式台球",
-        "appointRecords": {}
+        "appointRecords": {
+          "2025-01-14": {
+            "14:19": true
+          }
+        }
       },
       "89b53ef8-d66a-4b46-a148-ca09d985d29c": {
         "id": "89b53ef8-d66a-4b46-a148-ca09d985d29c",
@@ -3373,7 +3507,8 @@
         "type": "中式台球",
         "appointRecords": {
           "2025-01-14": {
-            "13:36": true
+            "13:36": true,
+            "14:19": true
           }
         }
       },
@@ -3483,13 +3618,21 @@
         "id": "d430b551-651a-425b-a4cc-b664c786026f",
         "address": "A07",
         "type": "中式台球",
-        "appointRecords": {}
+        "appointRecords": {
+          "2025-01-14": {
+            "14:19": true
+          }
+        }
       },
       "7670f750-a8b1-4bfc-be2b-154061d87cfc": {
         "id": "7670f750-a8b1-4bfc-be2b-154061d87cfc",
         "address": "A02",
         "type": "中式台球",
-        "appointRecords": {}
+        "appointRecords": {
+          "2025-01-14": {
+            "14:19": true
+          }
+        }
       },
       "0f7da1af-dd85-4da3-9a91-fde133b0613d": {
         "id": "0f7da1af-dd85-4da3-9a91-fde133b0613d",
@@ -3563,7 +3706,11 @@
         "id": "9538fb7c-3132-45f3-a176-2c6b66cd80d1",
         "address": "2F A09",
         "type": "中式台球",
-        "appointRecords": {}
+        "appointRecords": {
+          "2025-01-14": {
+            "14:19": true
+          }
+        }
       },
       "c52982ea-7cb8-444c-b6bb-2b32863cf052": {
         "id": "c52982ea-7cb8-444c-b6bb-2b32863cf052",
@@ -3583,7 +3730,8 @@
         "type": "中式台球",
         "appointRecords": {
           "2025-01-14": {
-            "13:36": true
+            "13:36": true,
+            "14:19": true
           }
         }
       },
@@ -3593,7 +3741,8 @@
         "type": "中式台球",
         "appointRecords": {
           "2025-01-14": {
-            "13:36": true
+            "13:36": true,
+            "14:19": true
           }
         }
       },
@@ -3733,7 +3882,11 @@
         "id": "ebac536b-958f-4259-ba6f-62bfe7e95934",
         "address": "A06",
         "type": "中式台球",
-        "appointRecords": {}
+        "appointRecords": {
+          "2025-01-14": {
+            "14:19": true
+          }
+        }
       },
       "93fc7df2-dc00-4bd3-9426-8c214da2403e": {
         "id": "93fc7df2-dc00-4bd3-9426-8c214da2403e",
@@ -3851,7 +4004,8 @@
         "type": "中式台球",
         "appointRecords": {
           "2025-01-14": {
-            "13:36": true
+            "13:36": true,
+            "14:19": true
           }
         }
       },
@@ -3979,7 +4133,8 @@
         "type": "中式台球",
         "appointRecords": {
           "2025-01-14": {
-            "13:36": true
+            "13:36": true,
+            "14:19": true
           }
         }
       },
@@ -4037,7 +4192,11 @@
         "id": "d034e90a-4680-4820-b163-60e18bdc7865",
         "address": "A06",
         "type": "中式台球",
-        "appointRecords": {}
+        "appointRecords": {
+          "2025-01-14": {
+            "14:19": true
+          }
+        }
       },
       "3cc79ffd-415c-4a7d-9f06-c5991bd53295": {
         "id": "3cc79ffd-415c-4a7d-9f06-c5991bd53295",
@@ -4059,13 +4218,21 @@
         "id": "dee9109f-42b6-45be-b4c9-baa167d599c7",
         "address": "A07",
         "type": "中式台球",
-        "appointRecords": {}
+        "appointRecords": {
+          "2025-01-14": {
+            "14:19": true
+          }
+        }
       },
       "24cd7efc-92f8-47d6-9629-70702767dd74": {
         "id": "24cd7efc-92f8-47d6-9629-70702767dd74",
         "address": "A05",
         "type": "中式台球",
-        "appointRecords": {}
+        "appointRecords": {
+          "2025-01-14": {
+            "14:19": true
+          }
+        }
       },
       "3a20edce-075a-4170-bde8-676cce59b52b": {
         "id": "3a20edce-075a-4170-bde8-676cce59b52b",
@@ -4089,13 +4256,21 @@
         "id": "ef82712a-cebf-40f5-ae35-2f5a12cf6762",
         "address": "A04",
         "type": "中式台球",
-        "appointRecords": {}
+        "appointRecords": {
+          "2025-01-14": {
+            "14:19": true
+          }
+        }
       },
       "0f751319-e78f-49fa-9b4a-a81670fbade1": {
         "id": "0f751319-e78f-49fa-9b4a-a81670fbade1",
         "address": "A11",
         "type": "中式台球",
-        "appointRecords": {}
+        "appointRecords": {
+          "2025-01-14": {
+            "14:19": true
+          }
+        }
       },
       "8cda01ce-0f90-4487-b874-eee26d55526c": {
         "id": "8cda01ce-0f90-4487-b874-eee26d55526c",
@@ -4129,7 +4304,11 @@
         "id": "4fb9d9ae-55dc-4ede-ace1-df302be7614a",
         "address": "A16",
         "type": "中式台球",
-        "appointRecords": {}
+        "appointRecords": {
+          "2025-01-14": {
+            "14:19": true
+          }
+        }
       },
       "2d2d9ab6-a859-436c-937c-db797f43df85": {
         "id": "2d2d9ab6-a859-436c-937c-db797f43df85",
@@ -4183,7 +4362,11 @@
         "id": "9f17f78a-e329-4ec8-bf63-affbe4128636",
         "address": "A04",
         "type": "中式台球",
-        "appointRecords": {}
+        "appointRecords": {
+          "2025-01-14": {
+            "14:19": true
+          }
+        }
       },
       "17d22327-43c5-4606-b726-8a6b027eed10": {
         "id": "17d22327-43c5-4606-b726-8a6b027eed10",
@@ -4325,7 +4508,8 @@
         "type": "中式台球",
         "appointRecords": {
           "2025-01-14": {
-            "13:36": true
+            "13:36": true,
+            "14:19": true
           }
         }
       },
@@ -4335,7 +4519,8 @@
         "type": "中式台球",
         "appointRecords": {
           "2025-01-14": {
-            "13:36": true
+            "13:36": true,
+            "14:19": true
           }
         }
       },
@@ -4369,7 +4554,8 @@
         "type": "中式台球",
         "appointRecords": {
           "2025-01-14": {
-            "13:36": true
+            "13:36": true,
+            "14:19": true
           }
         }
       },
@@ -4379,7 +4565,8 @@
         "type": "中式台球",
         "appointRecords": {
           "2025-01-14": {
-            "13:36": true
+            "13:36": true,
+            "14:19": true
           }
         }
       }
@@ -4413,7 +4600,11 @@
         "id": "281cb698-5dc0-418e-87cf-4b3b29503005",
         "address": "A01",
         "type": "中式台球",
-        "appointRecords": {}
+        "appointRecords": {
+          "2025-01-14": {
+            "14:19": true
+          }
+        }
       },
       "4c63eff8-9164-4047-b2c2-975de985d222": {
         "id": "4c63eff8-9164-4047-b2c2-975de985d222",
@@ -4433,7 +4624,8 @@
         "type": "中式台球",
         "appointRecords": {
           "2025-01-14": {
-            "13:36": true
+            "13:36": true,
+            "14:19": true
           }
         }
       },
@@ -4441,7 +4633,11 @@
         "id": "7f1c9e8e-e52b-45fc-9259-fe003b0ac9f5",
         "address": "A02",
         "type": "中式台球",
-        "appointRecords": {}
+        "appointRecords": {
+          "2025-01-14": {
+            "14:19": true
+          }
+        }
       },
       "413f86d7-7bc8-4c61-9ff4-b8060cbeb3c8": {
         "id": "413f86d7-7bc8-4c61-9ff4-b8060cbeb3c8",
@@ -4535,7 +4731,8 @@
         "type": "中式台球",
         "appointRecords": {
           "2025-01-14": {
-            "13:36": true
+            "13:36": true,
+            "14:19": true
           }
         }
       },
@@ -4567,7 +4764,8 @@
         "type": "中式台球",
         "appointRecords": {
           "2025-01-14": {
-            "13:36": true
+            "13:36": true,
+            "14:19": true
           }
         }
       },
@@ -4589,7 +4787,8 @@
         "type": "中式台球",
         "appointRecords": {
           "2025-01-14": {
-            "13:36": true
+            "13:36": true,
+            "14:19": true
           }
         }
       },
@@ -4605,7 +4804,8 @@
         "type": "中式台球",
         "appointRecords": {
           "2025-01-14": {
-            "13:36": true
+            "13:36": true,
+            "14:19": true
           }
         }
       },
@@ -4619,13 +4819,21 @@
         "id": "454d13f0-15d2-4ffa-acad-989ec30fd386",
         "address": "A12",
         "type": "中式台球",
-        "appointRecords": {}
+        "appointRecords": {
+          "2025-01-14": {
+            "14:19": true
+          }
+        }
       },
       "a786c72f-b919-41ae-9f4c-a80d08c47edc": {
         "id": "a786c72f-b919-41ae-9f4c-a80d08c47edc",
         "address": "A11",
         "type": "中式台球",
-        "appointRecords": {}
+        "appointRecords": {
+          "2025-01-14": {
+            "14:19": true
+          }
+        }
       },
       "378840c0-7def-4ffc-9584-63d7116f9772": {
         "id": "378840c0-7def-4ffc-9584-63d7116f9772",
@@ -4639,7 +4847,8 @@
         "type": "中式台球",
         "appointRecords": {
           "2025-01-14": {
-            "13:36": true
+            "13:36": true,
+            "14:19": true
           }
         }
       }
@@ -4873,7 +5082,8 @@
         "type": "中式台球",
         "appointRecords": {
           "2025-01-14": {
-            "13:36": true
+            "13:36": true,
+            "14:19": true
           }
         }
       },
@@ -4939,7 +5149,8 @@
         "type": "中式台球",
         "appointRecords": {
           "2025-01-14": {
-            "13:36": true
+            "13:36": true,
+            "14:19": true
           }
         }
       },
@@ -4989,7 +5200,8 @@
         "type": "中式台球",
         "appointRecords": {
           "2025-01-14": {
-            "13:36": true
+            "13:36": true,
+            "14:19": true
           }
         }
       },
@@ -5057,7 +5269,8 @@
         "type": "中式台球",
         "appointRecords": {
           "2025-01-14": {
-            "13:36": true
+            "13:36": true,
+            "14:19": true
           }
         }
       },
@@ -5095,7 +5308,8 @@
         "type": "中式台球",
         "appointRecords": {
           "2025-01-14": {
-            "13:36": true
+            "13:36": true,
+            "14:19": true
           }
         }
       },
@@ -5171,7 +5385,11 @@
         "id": "d3622180-c58a-4a2c-b2e7-9e03430f22e0",
         "address": "A03",
         "type": "中式台球",
-        "appointRecords": {}
+        "appointRecords": {
+          "2025-01-14": {
+            "14:19": true
+          }
+        }
       },
       "3471b493-2de9-45e5-9a13-42351dba3c66": {
         "id": "3471b493-2de9-45e5-9a13-42351dba3c66",
@@ -5289,7 +5507,8 @@
         "type": "中式台球",
         "appointRecords": {
           "2025-01-14": {
-            "13:36": true
+            "13:36": true,
+            "14:19": true
           }
         }
       },
@@ -5433,7 +5652,8 @@
         "type": "中式台球",
         "appointRecords": {
           "2025-01-14": {
-            "13:36": true
+            "13:36": true,
+            "14:19": true
           }
         }
       },
@@ -5449,7 +5669,8 @@
         "type": "中式台球",
         "appointRecords": {
           "2025-01-14": {
-            "13:36": true
+            "13:36": true,
+            "14:19": true
           }
         }
       },
@@ -5463,7 +5684,11 @@
         "id": "d1793ded-d112-40bc-a210-abe9e8da51e7",
         "address": "A01",
         "type": "中式台球",
-        "appointRecords": {}
+        "appointRecords": {
+          "2025-01-14": {
+            "14:19": true
+          }
+        }
       },
       "f45706b2-a1c3-4605-aa4b-779705f18df7": {
         "id": "f45706b2-a1c3-4605-aa4b-779705f18df7",
@@ -5573,7 +5798,11 @@
         "id": "b0dc4247-07b0-4694-9a70-aa1d6f3b0c7a",
         "address": "A02",
         "type": "中式台球",
-        "appointRecords": {}
+        "appointRecords": {
+          "2025-01-14": {
+            "14:19": true
+          }
+        }
       },
       "3a779c64-66f1-4922-a3d7-493d786bfe9c": {
         "id": "3a779c64-66f1-4922-a3d7-493d786bfe9c",
@@ -5587,7 +5816,8 @@
         "type": "中式台球",
         "appointRecords": {
           "2025-01-14": {
-            "13:36": true
+            "13:36": true,
+            "14:19": true
           }
         }
       },
@@ -5595,7 +5825,11 @@
         "id": "0a57654f-27b3-4ac5-9de9-4df31e8ef27c",
         "address": "A06",
         "type": "中式台球",
-        "appointRecords": {}
+        "appointRecords": {
+          "2025-01-14": {
+            "14:19": true
+          }
+        }
       },
       "d15b93f4-1019-4b1c-ad4b-c8a45eaafbd6": {
         "id": "d15b93f4-1019-4b1c-ad4b-c8a45eaafbd6",
@@ -5615,7 +5849,8 @@
         "type": "中式台球",
         "appointRecords": {
           "2025-01-14": {
-            "13:36": true
+            "13:36": true,
+            "14:19": true
           }
         }
       },
@@ -5625,7 +5860,8 @@
         "type": "中式台球",
         "appointRecords": {
           "2025-01-14": {
-            "13:36": true
+            "13:36": true,
+            "14:19": true
           }
         }
       }
@@ -5643,13 +5879,21 @@
         "id": "36fcb71d-c196-4f9a-b5ef-0cbd1ea2a208",
         "address": "A03",
         "type": "中式台球",
-        "appointRecords": {}
+        "appointRecords": {
+          "2025-01-14": {
+            "14:19": true
+          }
+        }
       },
       "c5f6b396-acaa-40ad-93b7-7019767d8548": {
         "id": "c5f6b396-acaa-40ad-93b7-7019767d8548",
         "address": "A06",
         "type": "中式台球",
-        "appointRecords": {}
+        "appointRecords": {
+          "2025-01-14": {
+            "14:19": true
+          }
+        }
       },
       "8556c840-a3d2-43ed-8d5b-faa4f818be82": {
         "id": "8556c840-a3d2-43ed-8d5b-faa4f818be82",
@@ -5685,7 +5929,11 @@
         "id": "711205cd-9a10-40a1-88e9-b7fc859429a5",
         "address": "A08",
         "type": "中式台球",
-        "appointRecords": {}
+        "appointRecords": {
+          "2025-01-14": {
+            "14:19": true
+          }
+        }
       }
     }
   },
@@ -5719,13 +5967,21 @@
         "id": "b851e000-f99d-4b12-8e95-5cddfa64b39b",
         "address": "A06",
         "type": "中式台球",
-        "appointRecords": {}
+        "appointRecords": {
+          "2025-01-14": {
+            "14:19": true
+          }
+        }
       },
       "976aa3c6-03ab-4d3c-bd73-702ded00e167": {
         "id": "976aa3c6-03ab-4d3c-bd73-702ded00e167",
         "address": "A02",
         "type": "中式台球",
-        "appointRecords": {}
+        "appointRecords": {
+          "2025-01-14": {
+            "14:19": true
+          }
+        }
       },
       "3668c48c-82ab-4016-861a-81bc80f396fd": {
         "id": "3668c48c-82ab-4016-861a-81bc80f396fd",
@@ -5765,7 +6021,11 @@
         "id": "4a408390-4431-4b1f-9fe9-0b9227b993e3",
         "address": "A06",
         "type": "中式台球",
-        "appointRecords": {}
+        "appointRecords": {
+          "2025-01-14": {
+            "14:19": true
+          }
+        }
       },
       "2c22926e-a9a0-4b30-9407-e5c148fd0ae9": {
         "id": "2c22926e-a9a0-4b30-9407-e5c148fd0ae9",
@@ -6069,7 +6329,11 @@
         "id": "d62c5ba5-9933-48f2-bef6-e3d6c6c0b6ad",
         "address": "A04",
         "type": "中式台球",
-        "appointRecords": {}
+        "appointRecords": {
+          "2025-01-14": {
+            "14:19": true
+          }
+        }
       },
       "2fc523db-0f67-469a-a450-79334d9116b1": {
         "id": "2fc523db-0f67-469a-a450-79334d9116b1",
@@ -6085,7 +6349,11 @@
         "id": "e45271e8-1000-4245-9800-fb20a943d546",
         "address": "A07",
         "type": "中式台球",
-        "appointRecords": {}
+        "appointRecords": {
+          "2025-01-14": {
+            "14:19": true
+          }
+        }
       },
       "21d52dc6-af65-4c2a-a66c-3937caee4780": {
         "id": "21d52dc6-af65-4c2a-a66c-3937caee4780",
@@ -6224,7 +6492,11 @@
         "id": "38e24492-3860-4671-a6d0-eb7c97646101",
         "address": "A02",
         "type": "中式台球",
-        "appointRecords": {}
+        "appointRecords": {
+          "2025-01-14": {
+            "14:19": true
+          }
+        }
       },
       "f1403c74-fb69-4729-957b-c22bf84141ce": {
         "id": "f1403c74-fb69-4729-957b-c22bf84141ce",
@@ -6238,7 +6510,8 @@
         "type": "中式台球",
         "appointRecords": {
           "2025-01-14": {
-            "13:36": true
+            "13:36": true,
+            "14:19": true
           }
         }
       },
@@ -6248,7 +6521,8 @@
         "type": "中式台球",
         "appointRecords": {
           "2025-01-14": {
-            "13:36": true
+            "13:36": true,
+            "14:19": true
           }
         }
       },
@@ -6612,7 +6886,8 @@
         "type": "中式台球",
         "appointRecords": {
           "2025-01-14": {
-            "13:36": true
+            "13:36": true,
+            "14:19": true
           }
         }
       },
@@ -6620,7 +6895,11 @@
         "id": "b9e9b884-1840-4229-b4af-9626b9689c36",
         "address": "A02",
         "type": "中式台球",
-        "appointRecords": {}
+        "appointRecords": {
+          "2025-01-14": {
+            "14:19": true
+          }
+        }
       },
       "07287113-088f-4e75-bc5e-f68b983feac0": {
         "id": "07287113-088f-4e75-bc5e-f68b983feac0",
@@ -6638,13 +6917,21 @@
         "id": "0dc038a4-fd21-4b1c-94e1-13e0915b885c",
         "address": "A04",
         "type": "中式台球",
-        "appointRecords": {}
+        "appointRecords": {
+          "2025-01-14": {
+            "14:19": true
+          }
+        }
       },
       "f9477222-8d61-41b4-955d-0d5e33bd6965": {
         "id": "f9477222-8d61-41b4-955d-0d5e33bd6965",
         "address": "A07",
         "type": "中式台球",
-        "appointRecords": {}
+        "appointRecords": {
+          "2025-01-14": {
+            "14:19": true
+          }
+        }
       },
       "dd4a92df-de4a-4011-8b9c-b627388a6fbf": {
         "id": "dd4a92df-de4a-4011-8b9c-b627388a6fbf",
@@ -6658,7 +6945,8 @@
         "type": "中式台球",
         "appointRecords": {
           "2025-01-14": {
-            "13:36": true
+            "13:36": true,
+            "14:19": true
           }
         }
       },
@@ -6666,7 +6954,11 @@
         "id": "844534e4-349c-4f29-a987-de011fe59d48",
         "address": "A03",
         "type": "中式台球",
-        "appointRecords": {}
+        "appointRecords": {
+          "2025-01-14": {
+            "14:19": true
+          }
+        }
       }
     }
   },
@@ -6830,7 +7122,11 @@
         "id": "45e5cd42-ee09-4315-9a18-45c3ee0b8033",
         "address": "A03",
         "type": "中式台球",
-        "appointRecords": {}
+        "appointRecords": {
+          "2025-01-14": {
+            "14:19": true
+          }
+        }
       },
       "24382e8a-0b76-48c7-9e1d-1bc2b54588a3": {
         "id": "24382e8a-0b76-48c7-9e1d-1bc2b54588a3",
@@ -7002,7 +7298,8 @@
         "type": "棋牌",
         "appointRecords": {
           "2025-01-14": {
-            "13:36": true
+            "13:36": true,
+            "14:19": true
           }
         }
       },
@@ -7138,7 +7435,11 @@
         "id": "e243f421-9316-4986-bb16-c7977d8b19e0",
         "address": "A02",
         "type": "中式台球",
-        "appointRecords": {}
+        "appointRecords": {
+          "2025-01-14": {
+            "14:19": true
+          }
+        }
       },
       "e4aaa403-90b9-4626-9378-b4b16dab828d": {
         "id": "e4aaa403-90b9-4626-9378-b4b16dab828d",
@@ -7212,13 +7513,21 @@
         "id": "d099307a-fd95-40b2-9f53-72a040241e5b",
         "address": "A09",
         "type": "中式台球",
-        "appointRecords": {}
+        "appointRecords": {
+          "2025-01-14": {
+            "14:19": true
+          }
+        }
       },
       "9cbd60f3-b593-4f92-9612-3f1d5ceb948a": {
         "id": "9cbd60f3-b593-4f92-9612-3f1d5ceb948a",
         "address": "A07",
         "type": "中式台球",
-        "appointRecords": {}
+        "appointRecords": {
+          "2025-01-14": {
+            "14:19": true
+          }
+        }
       },
       "cad6cedc-1490-4dd0-a9f7-897d59ad4f9d": {
         "id": "cad6cedc-1490-4dd0-a9f7-897d59ad4f9d",
@@ -7248,7 +7557,11 @@
         "id": "298ea30b-5238-4d59-b4eb-d1338f5a7a4e",
         "address": "A01",
         "type": "中式台球",
-        "appointRecords": {}
+        "appointRecords": {
+          "2025-01-14": {
+            "14:19": true
+          }
+        }
       },
       "b36c62fc-2bcb-4f39-bc09-af207247329b": {
         "id": "b36c62fc-2bcb-4f39-bc09-af207247329b",
@@ -7256,7 +7569,8 @@
         "type": "中式台球",
         "appointRecords": {
           "2025-01-14": {
-            "13:36": true
+            "13:36": true,
+            "14:19": true
           }
         }
       }
@@ -7434,7 +7748,8 @@
         "type": "中式台球",
         "appointRecords": {
           "2025-01-14": {
-            "13:36": true
+            "13:36": true,
+            "14:19": true
           }
         }
       },
@@ -7460,7 +7775,8 @@
         "type": "中式台球",
         "appointRecords": {
           "2025-01-14": {
-            "13:36": true
+            "13:36": true,
+            "14:19": true
           }
         }
       },
@@ -7486,7 +7802,11 @@
         "id": "fe7f64ad-cb15-4122-b7d7-0cb2df5f1332",
         "address": "A04",
         "type": "中式台球",
-        "appointRecords": {}
+        "appointRecords": {
+          "2025-01-14": {
+            "14:19": true
+          }
+        }
       },
       "118dcc93-7841-4578-a1bd-27a23dd3884d": {
         "id": "118dcc93-7841-4578-a1bd-27a23dd3884d",
@@ -7556,7 +7876,8 @@
         "type": "中式台球",
         "appointRecords": {
           "2025-01-14": {
-            "13:36": true
+            "13:36": true,
+            "14:19": true
           }
         }
       },
@@ -7620,7 +7941,11 @@
         "id": "a1cc60cd-3b35-424e-870d-d1697a3aab25",
         "address": "A05",
         "type": "中式台球",
-        "appointRecords": {}
+        "appointRecords": {
+          "2025-01-14": {
+            "14:19": true
+          }
+        }
       },
       "200c43be-8a32-488b-9655-34971b737a53": {
         "id": "200c43be-8a32-488b-9655-34971b737a53",
@@ -7632,7 +7957,11 @@
         "id": "c137f5f7-3df9-4643-864a-c46c1b2e6d3f",
         "address": "A02",
         "type": "中式台球",
-        "appointRecords": {}
+        "appointRecords": {
+          "2025-01-14": {
+            "14:19": true
+          }
+        }
       }
     }
   },
@@ -7648,7 +7977,11 @@
         "id": "30d5bcd8-fc31-43d2-90ed-7a881cf9ea6e",
         "address": "A04",
         "type": "中式台球",
-        "appointRecords": {}
+        "appointRecords": {
+          "2025-01-14": {
+            "14:19": true
+          }
+        }
       },
       "e1fc9680-6434-4837-9616-5df537b7af60": {
         "id": "e1fc9680-6434-4837-9616-5df537b7af60",
@@ -7660,7 +7993,11 @@
         "id": "092e5b18-9e68-4670-add4-2fc9b74218d0",
         "address": "A01",
         "type": "中式台球",
-        "appointRecords": {}
+        "appointRecords": {
+          "2025-01-14": {
+            "14:19": true
+          }
+        }
       },
       "9982a3b7-f624-4492-a1b3-cab39cecb47f": {
         "id": "9982a3b7-f624-4492-a1b3-cab39cecb47f",
@@ -7724,7 +8061,11 @@
         "id": "f2f2151d-3980-46c0-913e-529841469b53",
         "address": "A01",
         "type": "中式台球",
-        "appointRecords": {}
+        "appointRecords": {
+          "2025-01-14": {
+            "14:19": true
+          }
+        }
       },
       "000ef53a-805c-4d5e-907c-1e8b972aa9e0": {
         "id": "000ef53a-805c-4d5e-907c-1e8b972aa9e0",
@@ -7790,7 +8131,8 @@
         "type": "中式台球",
         "appointRecords": {
           "2025-01-14": {
-            "13:36": true
+            "13:36": true,
+            "14:19": true
           }
         }
       },
@@ -7812,7 +8154,8 @@
         "type": "棋牌",
         "appointRecords": {
           "2025-01-14": {
-            "13:36": true
+            "13:36": true,
+            "14:19": true
           }
         }
       },
@@ -7882,7 +8225,11 @@
         "id": "cbb7cdca-39ca-4369-94f2-8c6bddceb2b3",
         "address": "A03",
         "type": "中式台球",
-        "appointRecords": {}
+        "appointRecords": {
+          "2025-01-14": {
+            "14:19": true
+          }
+        }
       },
       "c644bd27-9d99-4c9f-8ae3-2edcb45e9912": {
         "id": "c644bd27-9d99-4c9f-8ae3-2edcb45e9912",
@@ -7934,7 +8281,11 @@
         "id": "a07a1fbd-0644-4cd0-9ad6-00eb40939b4c",
         "address": "A02",
         "type": "中式台球",
-        "appointRecords": {}
+        "appointRecords": {
+          "2025-01-14": {
+            "14:19": true
+          }
+        }
       },
       "0596d32c-5699-4420-a15a-352b532537bf": {
         "id": "0596d32c-5699-4420-a15a-352b532537bf",
@@ -7960,7 +8311,8 @@
         "type": "中式台球",
         "appointRecords": {
           "2025-01-14": {
-            "13:36": true
+            "13:36": true,
+            "14:19": true
           }
         }
       },
@@ -8000,7 +8352,11 @@
         "id": "cfb45149-06f2-46b1-b6a4-9b512ae8f030",
         "address": "A06",
         "type": "中式台球",
-        "appointRecords": {}
+        "appointRecords": {
+          "2025-01-14": {
+            "14:19": true
+          }
+        }
       },
       "34fa15a8-44a1-4956-b0cc-5542ed1e5be5": {
         "id": "34fa15a8-44a1-4956-b0cc-5542ed1e5be5",
@@ -8084,7 +8440,8 @@
         "type": "中式台球",
         "appointRecords": {
           "2025-01-14": {
-            "13:36": true
+            "13:36": true,
+            "14:19": true
           }
         }
       },
@@ -8120,7 +8477,11 @@
         "id": "9fd1c7ac-15c1-4c67-8328-ca6c7ba7a815",
         "address": "A08",
         "type": "中式台球",
-        "appointRecords": {}
+        "appointRecords": {
+          "2025-01-14": {
+            "14:19": true
+          }
+        }
       },
       "b4f26102-10b5-42cc-a203-6e42c0150158": {
         "id": "b4f26102-10b5-42cc-a203-6e42c0150158",
@@ -8140,7 +8501,8 @@
         "type": "中式台球",
         "appointRecords": {
           "2025-01-14": {
-            "13:36": true
+            "13:36": true,
+            "14:19": true
           }
         }
       },
@@ -8292,7 +8654,11 @@
         "id": "bb64606d-476b-4188-a050-403fcc71d602",
         "address": "A01",
         "type": "中式台球",
-        "appointRecords": {}
+        "appointRecords": {
+          "2025-01-14": {
+            "14:19": true
+          }
+        }
       },
       "a2d3f447-6570-4314-ba8d-f01d78016059": {
         "id": "a2d3f447-6570-4314-ba8d-f01d78016059",
@@ -8306,7 +8672,8 @@
         "type": "中式台球",
         "appointRecords": {
           "2025-01-14": {
-            "13:36": true
+            "13:36": true,
+            "14:19": true
           }
         }
       },
@@ -8376,7 +8743,8 @@
         "type": "中式台球",
         "appointRecords": {
           "2025-01-14": {
-            "13:36": true
+            "13:36": true,
+            "14:19": true
           }
         }
       },
@@ -8392,7 +8760,8 @@
         "type": "中式台球",
         "appointRecords": {
           "2025-01-14": {
-            "13:36": true
+            "13:36": true,
+            "14:19": true
           }
         }
       },
@@ -8400,7 +8769,11 @@
         "id": "5c3fa9c7-6db1-443c-9161-6af118e977b7",
         "address": "A04",
         "type": "中式台球",
-        "appointRecords": {}
+        "appointRecords": {
+          "2025-01-14": {
+            "14:19": true
+          }
+        }
       },
       "754018fd-b859-4379-a9fb-6b759743cf05": {
         "id": "754018fd-b859-4379-a9fb-6b759743cf05",
@@ -8686,7 +9059,8 @@
         "type": "中式台球",
         "appointRecords": {
           "2025-01-14": {
-            "13:36": true
+            "13:36": true,
+            "14:19": true
           }
         }
       },
@@ -8724,7 +9098,11 @@
         "id": "580979c5-abd2-4dad-bf59-2045848d07c7",
         "address": "A01",
         "type": "中式台球",
-        "appointRecords": {}
+        "appointRecords": {
+          "2025-01-14": {
+            "14:19": true
+          }
+        }
       },
       "4fb7f1df-bcfd-43cb-a505-2a249566c9e3": {
         "id": "4fb7f1df-bcfd-43cb-a505-2a249566c9e3",
@@ -9122,7 +9500,8 @@
         "type": "棋牌",
         "appointRecords": {
           "2025-01-14": {
-            "13:36": true
+            "13:36": true,
+            "14:19": true
           }
         }
       },
@@ -9138,7 +9517,8 @@
         "type": "棋牌",
         "appointRecords": {
           "2025-01-14": {
-            "13:36": true
+            "13:36": true,
+            "14:19": true
           }
         }
       },
@@ -9146,7 +9526,11 @@
         "id": "f199a6b6-ac99-4756-a64c-258144b327e7",
         "address": "Q01",
         "type": "棋牌",
-        "appointRecords": {}
+        "appointRecords": {
+          "2025-01-14": {
+            "14:19": true
+          }
+        }
       },
       "df52e432-c23f-4c8c-86aa-e16a1bcc238f": {
         "id": "df52e432-c23f-4c8c-86aa-e16a1bcc238f",
@@ -9196,19 +9580,31 @@
         "id": "92417ccb-ae18-4863-b38c-b81167e96a4d",
         "address": "Q12",
         "type": "棋牌",
-        "appointRecords": {}
+        "appointRecords": {
+          "2025-01-14": {
+            "14:19": true
+          }
+        }
       },
       "cb845776-6cca-4ef8-b837-3b6e942a61c7": {
         "id": "cb845776-6cca-4ef8-b837-3b6e942a61c7",
         "address": "Q06",
         "type": "棋牌",
-        "appointRecords": {}
+        "appointRecords": {
+          "2025-01-14": {
+            "14:19": true
+          }
+        }
       },
       "9f0c1641-68b9-4ee0-a125-cf1056e59f20": {
         "id": "9f0c1641-68b9-4ee0-a125-cf1056e59f20",
         "address": "A02",
         "type": "中式台球",
-        "appointRecords": {}
+        "appointRecords": {
+          "2025-01-14": {
+            "14:19": true
+          }
+        }
       },
       "3cff4e09-7eb2-4ebf-a9c7-5d2db43ed20c": {
         "id": "3cff4e09-7eb2-4ebf-a9c7-5d2db43ed20c",
@@ -9330,7 +9726,8 @@
         "type": "中式台球",
         "appointRecords": {
           "2025-01-14": {
-            "13:36": true
+            "13:36": true,
+            "14:19": true
           }
         }
       },
@@ -9362,7 +9759,11 @@
         "id": "f2b8ed5f-57fa-4e47-8605-3c6568cdc48a",
         "address": "A03",
         "type": "中式台球",
-        "appointRecords": {}
+        "appointRecords": {
+          "2025-01-14": {
+            "14:19": true
+          }
+        }
       }
     }
   },
@@ -9384,7 +9785,11 @@
         "id": "c489da24-bc20-4db2-9b7a-97d141cf606e",
         "address": "A06",
         "type": "中式台球",
-        "appointRecords": {}
+        "appointRecords": {
+          "2025-01-14": {
+            "14:19": true
+          }
+        }
       },
       "61a567e8-470a-4a55-917c-e75b450d1ddc": {
         "id": "61a567e8-470a-4a55-917c-e75b450d1ddc",
@@ -9416,7 +9821,8 @@
         "type": "中式台球",
         "appointRecords": {
           "2025-01-14": {
-            "13:36": true
+            "13:36": true,
+            "14:19": true
           }
         }
       },
@@ -9584,7 +9990,8 @@
         "type": "中式台球",
         "appointRecords": {
           "2025-01-14": {
-            "13:36": true
+            "13:36": true,
+            "14:19": true
           }
         }
       },
@@ -9592,7 +9999,11 @@
         "id": "0abadaa8-4b66-47b3-b108-3905ee670fa6",
         "address": "A02",
         "type": "中式台球",
-        "appointRecords": {}
+        "appointRecords": {
+          "2025-01-14": {
+            "14:19": true
+          }
+        }
       },
       "fabe6254-1e85-4cc6-a2db-0c28452a5d3d": {
         "id": "fabe6254-1e85-4cc6-a2db-0c28452a5d3d",
@@ -9658,7 +10069,8 @@
         "type": "中式台球",
         "appointRecords": {
           "2025-01-14": {
-            "13:36": true
+            "13:36": true,
+            "14:19": true
           }
         }
       },
@@ -9818,7 +10230,8 @@
         "type": "中式台球",
         "appointRecords": {
           "2025-01-14": {
-            "13:36": true
+            "13:36": true,
+            "14:19": true
           }
         }
       },
@@ -9828,7 +10241,8 @@
         "type": "中式台球",
         "appointRecords": {
           "2025-01-14": {
-            "13:36": true
+            "13:36": true,
+            "14:19": true
           }
         }
       },
@@ -9838,7 +10252,8 @@
         "type": "中式台球",
         "appointRecords": {
           "2025-01-14": {
-            "13:36": true
+            "13:36": true,
+            "14:19": true
           }
         }
       },
@@ -9846,7 +10261,11 @@
         "id": "08e1d9c8-105c-4d4b-b436-25086842b85f",
         "address": "A01",
         "type": "中式台球",
-        "appointRecords": {}
+        "appointRecords": {
+          "2025-01-14": {
+            "14:19": true
+          }
+        }
       },
       "43148945-4314-4242-b738-74f9a55cc7c3": {
         "id": "43148945-4314-4242-b738-74f9a55cc7c3",
@@ -9904,7 +10323,8 @@
         "type": "中式台球",
         "appointRecords": {
           "2025-01-14": {
-            "13:36": true
+            "13:36": true,
+            "14:19": true
           }
         }
       },
@@ -9912,7 +10332,11 @@
         "id": "f9ba3257-a5bf-469e-be15-995b9109f089",
         "address": "A05",
         "type": "中式台球",
-        "appointRecords": {}
+        "appointRecords": {
+          "2025-01-14": {
+            "14:19": true
+          }
+        }
       },
       "5f2fa3a5-49db-4c8e-befb-668846c70837": {
         "id": "5f2fa3a5-49db-4c8e-befb-668846c70837",
@@ -9920,7 +10344,8 @@
         "type": "中式台球",
         "appointRecords": {
           "2025-01-14": {
-            "13:36": true
+            "13:36": true,
+            "14:19": true
           }
         }
       },
@@ -9958,7 +10383,11 @@
         "id": "f717a666-1eee-4f5e-8bbe-ef6f5d4d52f4",
         "address": "A02",
         "type": "中式台球",
-        "appointRecords": {}
+        "appointRecords": {
+          "2025-01-14": {
+            "14:19": true
+          }
+        }
       }
     }
   },
@@ -9982,7 +10411,8 @@
         "type": "中式台球",
         "appointRecords": {
           "2025-01-14": {
-            "13:36": true
+            "13:36": true,
+            "14:19": true
           }
         }
       },
@@ -10008,7 +10438,11 @@
         "id": "52fa0eaa-9803-4235-b860-29f9abdaf75a",
         "address": "A07",
         "type": "中式台球",
-        "appointRecords": {}
+        "appointRecords": {
+          "2025-01-14": {
+            "14:19": true
+          }
+        }
       },
       "8a0bd8d5-03c9-473e-80fe-b64156a67586": {
         "id": "8a0bd8d5-03c9-473e-80fe-b64156a67586",
@@ -10032,7 +10466,11 @@
         "id": "dd4e0b05-190c-4f6a-a1be-76851bf928ee",
         "address": "A05",
         "type": "中式台球",
-        "appointRecords": {}
+        "appointRecords": {
+          "2025-01-14": {
+            "14:19": true
+          }
+        }
       }
     }
   },
@@ -10154,13 +10592,21 @@
         "id": "19897f51-6bf1-490d-a76b-74f3a7bc61d3",
         "address": "A11",
         "type": "中式台球",
-        "appointRecords": {}
+        "appointRecords": {
+          "2025-01-14": {
+            "14:19": true
+          }
+        }
       },
       "5b202568-778d-4231-b3a5-9be16b4fb2e5": {
         "id": "5b202568-778d-4231-b3a5-9be16b4fb2e5",
         "address": "Q07",
         "type": "棋牌",
-        "appointRecords": {}
+        "appointRecords": {
+          "2025-01-14": {
+            "14:19": true
+          }
+        }
       },
       "a8c188c1-b4ba-4a6b-938d-1eed91562b95": {
         "id": "a8c188c1-b4ba-4a6b-938d-1eed91562b95",
@@ -10174,7 +10620,8 @@
         "type": "中式台球",
         "appointRecords": {
           "2025-01-14": {
-            "13:36": true
+            "13:36": true,
+            "14:19": true
           }
         }
       },
@@ -10184,7 +10631,8 @@
         "type": "中式台球",
         "appointRecords": {
           "2025-01-14": {
-            "13:36": true
+            "13:36": true,
+            "14:19": true
           }
         }
       },
@@ -10194,7 +10642,8 @@
         "type": "棋牌",
         "appointRecords": {
           "2025-01-14": {
-            "13:36": true
+            "13:36": true,
+            "14:19": true
           }
         }
       },
@@ -10214,7 +10663,11 @@
         "id": "a2df4451-3ed2-4c31-8c76-6abbc84c00e8",
         "address": "V01",
         "type": "包房",
-        "appointRecords": {}
+        "appointRecords": {
+          "2025-01-14": {
+            "14:19": true
+          }
+        }
       },
       "928efc2e-d139-4b87-931e-92d7df915d37": {
         "id": "928efc2e-d139-4b87-931e-92d7df915d37",
@@ -10252,7 +10705,8 @@
         "type": "棋牌",
         "appointRecords": {
           "2025-01-14": {
-            "13:36": true
+            "13:36": true,
+            "14:19": true
           }
         }
       },
@@ -10384,7 +10838,8 @@
         "type": "中式台球",
         "appointRecords": {
           "2025-01-14": {
-            "13:36": true
+            "13:36": true,
+            "14:19": true
           }
         }
       },
@@ -10400,7 +10855,8 @@
         "type": "中式台球",
         "appointRecords": {
           "2025-01-14": {
-            "13:36": true
+            "13:36": true,
+            "14:19": true
           }
         }
       },
@@ -10430,7 +10886,11 @@
         "id": "42ccf4f5-f909-4160-9240-c9879e0a6c7b",
         "address": "A11",
         "type": "中式台球",
-        "appointRecords": {}
+        "appointRecords": {
+          "2025-01-14": {
+            "14:19": true
+          }
+        }
       },
       "acf1bf8e-5f1e-4a4a-836b-fe4b8e736ce2": {
         "id": "acf1bf8e-5f1e-4a4a-836b-fe4b8e736ce2",
@@ -10820,7 +11280,11 @@
         "id": "772866e9-db87-47ff-9147-c692ce14f0a8",
         "address": "A04",
         "type": "中式台球",
-        "appointRecords": {}
+        "appointRecords": {
+          "2025-01-14": {
+            "14:19": true
+          }
+        }
       },
       "2a0f64d6-afbd-4c4e-9433-eba68bd021af": {
         "id": "2a0f64d6-afbd-4c4e-9433-eba68bd021af",
@@ -10974,7 +11438,8 @@
         "type": "中式台球",
         "appointRecords": {
           "2025-01-14": {
-            "13:36": true
+            "13:36": true,
+            "14:19": true
           }
         }
       },
@@ -11060,7 +11525,8 @@
         "type": "棋牌",
         "appointRecords": {
           "2025-01-14": {
-            "13:36": true
+            "13:36": true,
+            "14:19": true
           }
         }
       },
@@ -11278,7 +11744,11 @@
         "id": "46a58c92-9cef-44e4-ac9b-bb7b31dc0e54",
         "address": "A01",
         "type": "中式台球",
-        "appointRecords": {}
+        "appointRecords": {
+          "2025-01-14": {
+            "14:19": true
+          }
+        }
       }
     }
   },
@@ -11324,7 +11794,11 @@
         "id": "a518fe35-f713-402a-bece-4a6aec9ea3b1",
         "address": "A03",
         "type": "中式台球",
-        "appointRecords": {}
+        "appointRecords": {
+          "2025-01-14": {
+            "14:19": true
+          }
+        }
       },
       "e6b4365b-0079-434f-9c71-15c044a40b6b": {
         "id": "e6b4365b-0079-434f-9c71-15c044a40b6b",
@@ -11344,7 +11818,8 @@
         "type": "中式台球",
         "appointRecords": {
           "2025-01-14": {
-            "13:36": true
+            "13:36": true,
+            "14:19": true
           }
         }
       },
@@ -11503,7 +11978,11 @@
         "id": "942c867a-c548-4f6a-9904-d88d63392fba",
         "address": "A01",
         "type": "中式台球",
-        "appointRecords": {}
+        "appointRecords": {
+          "2025-01-14": {
+            "14:19": true
+          }
+        }
       },
       "d60b8c91-ea73-4c13-9ebd-ed1d1a30246f": {
         "id": "d60b8c91-ea73-4c13-9ebd-ed1d1a30246f",
@@ -11547,7 +12026,8 @@
         "type": "中式台球",
         "appointRecords": {
           "2025-01-14": {
-            "13:36": true
+            "13:36": true,
+            "14:19": true
           }
         }
       },
@@ -11636,7 +12116,11 @@
         "id": "33f45688-6087-42e7-a263-fb758917495e",
         "address": "A03",
         "type": "中式台球",
-        "appointRecords": {}
+        "appointRecords": {
+          "2025-01-14": {
+            "14:19": true
+          }
+        }
       }
     }
   },
@@ -11838,7 +12322,8 @@
         "type": "中式台球",
         "appointRecords": {
           "2025-01-14": {
-            "13:36": true
+            "13:36": true,
+            "14:19": true
           }
         }
       },
@@ -12026,7 +12511,11 @@
         "id": "e9441920-6132-4453-bddf-2b5a07f2fa53",
         "address": "A07",
         "type": "中式台球",
-        "appointRecords": {}
+        "appointRecords": {
+          "2025-01-14": {
+            "14:19": true
+          }
+        }
       },
       "187f5cb6-73ff-46ad-b8bf-7f2a2427d3a4": {
         "id": "187f5cb6-73ff-46ad-b8bf-7f2a2427d3a4",
@@ -12058,7 +12547,8 @@
         "type": "棋牌",
         "appointRecords": {
           "2025-01-14": {
-            "13:36": true
+            "13:36": true,
+            "14:19": true
           }
         }
       },
@@ -12140,7 +12630,11 @@
         "id": "72693e84-c8f5-4757-8eaf-a0d6d4f355f5",
         "address": "A04",
         "type": "中式台球",
-        "appointRecords": {}
+        "appointRecords": {
+          "2025-01-14": {
+            "14:19": true
+          }
+        }
       },
       "1addc28c-6ad9-469e-a9cc-b00b7bc8f149": {
         "id": "1addc28c-6ad9-469e-a9cc-b00b7bc8f149",
@@ -12170,7 +12664,11 @@
         "id": "92c2a377-8b1d-4267-8ef7-0bf051e4edc6",
         "address": "A10",
         "type": "中式台球",
-        "appointRecords": {}
+        "appointRecords": {
+          "2025-01-14": {
+            "14:19": true
+          }
+        }
       },
       "e321fc7a-465c-499a-9043-10c99d9b2bc1": {
         "id": "e321fc7a-465c-499a-9043-10c99d9b2bc1",
@@ -12184,7 +12682,8 @@
         "type": "中式台球",
         "appointRecords": {
           "2025-01-14": {
-            "13:36": true
+            "13:36": true,
+            "14:19": true
           }
         }
       },
@@ -12200,7 +12699,8 @@
         "type": "中式台球",
         "appointRecords": {
           "2025-01-14": {
-            "13:36": true
+            "13:36": true,
+            "14:19": true
           }
         }
       }
@@ -12238,7 +12738,8 @@
         "type": "中式台球",
         "appointRecords": {
           "2025-01-14": {
-            "13:36": true
+            "13:36": true,
+            "14:19": true
           }
         }
       },
@@ -12284,7 +12785,8 @@
         "type": "中式台球",
         "appointRecords": {
           "2025-01-14": {
-            "13:36": true
+            "13:36": true,
+            "14:19": true
           }
         }
       },
@@ -12294,7 +12796,8 @@
         "type": "中式台球",
         "appointRecords": {
           "2025-01-14": {
-            "13:36": true
+            "13:36": true,
+            "14:19": true
           }
         }
       },
@@ -12324,7 +12827,11 @@
         "id": "46a52397-9096-4534-85e4-dbe984010caf",
         "address": "A03",
         "type": "中式台球",
-        "appointRecords": {}
+        "appointRecords": {
+          "2025-01-14": {
+            "14:19": true
+          }
+        }
       },
       "c5032d11-4f42-4038-a29b-ffbfc0dbfdc2": {
         "id": "c5032d11-4f42-4038-a29b-ffbfc0dbfdc2",
@@ -12342,7 +12849,11 @@
         "id": "7555428e-65c4-4788-b1af-868b9a27cbc9",
         "address": "A04",
         "type": "中式台球",
-        "appointRecords": {}
+        "appointRecords": {
+          "2025-01-14": {
+            "14:19": true
+          }
+        }
       },
       "832c1ae3-56a0-4b4f-9161-a8204b5270e2": {
         "id": "832c1ae3-56a0-4b4f-9161-a8204b5270e2",
@@ -12368,7 +12879,8 @@
         "type": "中式台球",
         "appointRecords": {
           "2025-01-14": {
-            "13:36": true
+            "13:36": true,
+            "14:19": true
           }
         }
       },
@@ -12394,7 +12906,8 @@
         "type": "中式台球",
         "appointRecords": {
           "2025-01-14": {
-            "13:36": true
+            "13:36": true,
+            "14:19": true
           }
         }
       },
@@ -12410,7 +12923,8 @@
         "type": "中式台球",
         "appointRecords": {
           "2025-01-14": {
-            "13:36": true
+            "13:36": true,
+            "14:19": true
           }
         }
       },
@@ -12420,7 +12934,8 @@
         "type": "中式台球",
         "appointRecords": {
           "2025-01-14": {
-            "13:36": true
+            "13:36": true,
+            "14:19": true
           }
         }
       },
@@ -12550,7 +13065,8 @@
         "type": "中式台球",
         "appointRecords": {
           "2025-01-14": {
-            "13:36": true
+            "13:36": true,
+            "14:19": true
           }
         }
       },
@@ -12572,7 +13088,8 @@
         "type": "中式台球",
         "appointRecords": {
           "2025-01-14": {
-            "13:36": true
+            "13:36": true,
+            "14:19": true
           }
         }
       },
@@ -12588,7 +13105,8 @@
         "type": "棋牌",
         "appointRecords": {
           "2025-01-14": {
-            "13:36": true
+            "13:36": true,
+            "14:19": true
           }
         }
       },
@@ -12708,7 +13226,8 @@
         "type": "中式台球",
         "appointRecords": {
           "2025-01-14": {
-            "13:36": true
+            "13:36": true,
+            "14:19": true
           }
         }
       },
@@ -12798,7 +13317,11 @@
         "id": "f8ff0520-0ce1-4079-af96-439f43e1141d",
         "address": "A04",
         "type": "中式台球",
-        "appointRecords": {}
+        "appointRecords": {
+          "2025-01-14": {
+            "14:19": true
+          }
+        }
       },
       "bf77a6b1-6ee7-463d-b548-047ad4f9e189": {
         "id": "bf77a6b1-6ee7-463d-b548-047ad4f9e189",
