@@ -2632,6 +2632,9 @@
             "3": true,
             "4": true,
             "5": true,
+            "6": true,
+            "7": true,
+            "8": true,
             "11": true,
             "12": true,
             "13": true,
@@ -13227,7 +13230,9 @@
             "23": true
           },
           "2025-01-30": {
-            "0": true
+            "0": true,
+            "4": true,
+            "5": true
           }
         }
       }
@@ -14251,7 +14256,9 @@
             "1": true,
             "2": true,
             "3": true,
-            "4": true
+            "4": true,
+            "5": true,
+            "6": true
           }
         }
       }
@@ -24231,7 +24238,8 @@
             "1": true,
             "2": true,
             "3": true,
-            "4": true
+            "4": true,
+            "5": true
           }
         }
       }
