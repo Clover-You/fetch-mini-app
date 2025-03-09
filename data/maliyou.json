@@ -1715,6 +1715,7 @@
             "7": true,
             "8": true,
             "9": true,
+            "11": true,
             "12": true,
             "13": true,
             "14": true,
@@ -10628,7 +10629,8 @@
             "16": true,
             "17": true,
             "18": true,
-            "19": true
+            "19": true,
+            "20": true
           }
         }
       }
@@ -16482,6 +16484,7 @@
             "9": true,
             "10": true,
             "11": true,
+            "12": true,
             "13": true,
             "14": true,
             "15": true,
@@ -30546,6 +30549,7 @@
             "3": true,
             "4": true,
             "5": true,
+            "13": true,
             "14": true,
             "15": true,
             "16": true,
@@ -33319,7 +33323,10 @@
             "12": true,
             "13": true,
             "14": true,
-            "15": true
+            "15": true,
+            "16": true,
+            "17": true,
+            "18": true
           }
         }
       }
@@ -46699,6 +46706,8 @@
             "7": true,
             "8": true,
             "9": true,
+            "11": true,
+            "12": true,
             "13": true,
             "14": true,
             "15": true,
@@ -53844,6 +53853,7 @@
             "7": true,
             "8": true,
             "9": true,
+            "13": true,
             "14": true,
             "15": true,
             "16": true,
@@ -57240,7 +57250,11 @@
             "8": true,
             "9": true,
             "10": true,
-            "11": true
+            "11": true,
+            "12": true,
+            "13": true,
+            "14": true,
+            "15": true
           }
         }
       }
@@ -58710,7 +58724,12 @@
             "4": true,
             "5": true,
             "6": true,
-            "7": true
+            "7": true,
+            "13": true,
+            "14": true,
+            "15": true,
+            "16": true,
+            "17": true
           }
         }
       }
@@ -63252,6 +63271,7 @@
             "9": true,
             "10": true,
             "11": true,
+            "12": true,
             "13": true,
             "14": true,
             "15": true,
@@ -64325,7 +64345,13 @@
             "7": true,
             "8": true,
             "9": true,
-            "10": true
+            "10": true,
+            "11": true,
+            "12": true,
+            "13": true,
+            "14": true,
+            "15": true,
+            "16": true
           }
         }
       }
@@ -70649,6 +70675,8 @@
             "5": true,
             "6": true,
             "7": true,
+            "11": true,
+            "12": true,
             "13": true,
             "14": true,
             "15": true,
@@ -76523,6 +76551,9 @@
             "13": true,
             "14": true,
             "15": true,
+            "16": true,
+            "17": true,
+            "18": true,
             "21": true,
             "22": true,
             "23": true
@@ -89064,6 +89095,8 @@
             "9": true,
             "10": true,
             "11": true,
+            "12": true,
+            "13": true,
             "14": true,
             "15": true,
             "16": true,
@@ -95872,13 +95905,19 @@
             "7": true,
             "8": true,
             "9": true,
+            "11": true,
             "12": true,
             "13": true,
             "14": true,
             "15": true,
             "16": true,
             "17": true,
-            "18": true
+            "18": true,
+            "19": true,
+            "20": true,
+            "21": true,
+            "22": true,
+            "23": true
           }
         }
       }
@@ -103175,7 +103214,7 @@
     "store": {
       "id": "20347",
       "name": "广东广州·越秀农林下路新裕大厦店",
-      "address": "广东省广州市越秀区农林下路81号之一15A单元\n",
+      "address": "广东省广州市越秀区农林下路81号之一15楼A单元\n",
       "city": "广州市"
     },
     "tables": {
